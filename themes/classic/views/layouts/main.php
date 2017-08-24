@@ -30,7 +30,7 @@
 		<link rel="apple-touch-icon" href="http://www.hrw-web.it/apple-touch-icon.png">
 		
 
-	<link rel="stylesheet" type="text/css" media="all" href="/css/consolidated.css">
+	<link rel="stylesheet" type="text/css" media="all" href="HRW%20hydraulic%20hoses%20Italy_files/consolidated.css">
 		
 	<script>var foundation={};</script>
 	<script>function loadCSS(a,b,c){"use strict";var d=window.document.createElement("link"),e=b||window.document.getElementsByTagName("script")[0],f=window.document.styleSheets;return d.rel="stylesheet",d.href=a,d.media="only x",e.parentNode.insertBefore(d,e),d.onloadcssdefined=function(a){for(var b,c=0;c<f.length;c++)f[c].href&&f[c].href===d.href&&(b=!0);b?a():setTimeout(function(){d.onloadcssdefined(a)})},d.onloadcssdefined(function(){d.media=c||"all"}),d}</script>
