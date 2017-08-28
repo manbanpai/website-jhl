@@ -1,5 +1,4 @@
-	<div id="stacks_out_92686_page0"
-			class="stacks_out stacks_m_hidden stacks_s_hidden">
+	<div id="stacks_out_92686_page0" class="stacks_out stacks_m_hidden stacks_s_hidden">
 			<div id="stacks_in_92686_page0" class="stacks_in ">
 				<div id="stacks_out_p92686_n1_page0"
 					class="stacks_out stacks_m_hidden stacks_s_hidden">
@@ -179,7 +178,7 @@ next_on_click:false;"
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
 													draggable="false"
-													src="HRW%20hydraulic%20hoses%20Italy_files/small_p3691_n3807.jpg"
+													src="images/small_p3691_n3807.jpg"
 													data-interchange="[files/small_p3691_n3807.jpg,(default)]"
 													alt="hydrojet hoses" data-uuid="interchange-j6oge7164">
 											</div>
@@ -196,7 +195,7 @@ next_on_click:false;"
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
 													draggable="false"
-													src="HRW%20hydraulic%20hoses%20Italy_files/small_p3691_n33596.jpg"
+													src="images/small_p3691_n33596.jpg"
 													data-interchange="[files/small_p3691_n33596.jpg,(default)]"
 													alt="high temperature hoses"
 													data-uuid="interchange-j6oge7165">
@@ -214,7 +213,7 @@ next_on_click:false;"
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
 													draggable="false"
-													src="HRW%20hydraulic%20hoses%20Italy_files/small_p3691_n33597.jpg"
+													src="images/small_p3691_n33597.jpg"
 													data-interchange="[files/small_p3691_n33597.jpg,(default)]"
 													alt="CXT hydraulic hoses" data-uuid="interchange-j6oge7166">
 											</div>

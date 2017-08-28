@@ -1,4 +1,4 @@
-<div id="stacks_out_64325_page0" class="stacks_out">
+<div style="border:1px solid green" id="stacks_out_64325_page0" class="stacks_out">
 			<div id="stacks_in_64325_page0" class="stacks_in ">
 				<div id="stacks_out_p64325_n12697_page0" class="stacks_out">
 					<div id="stacks_in_p64325_n12697_page0"

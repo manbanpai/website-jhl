@@ -1,6 +1,6 @@
 <?php
 //prod生产模式 dev开发模式
-defined('YII_ENV') or define('YII_ENV', 'pred');
+defined('YII_ENV') or define('YII_ENV', 'dev');
 
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/../yii/framework/yii.php';

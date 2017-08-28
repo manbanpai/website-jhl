@@ -11,7 +11,9 @@
     <meta name="modernizr-version" content="2.8.3">
 
 	
-<link rel="stylesheet" href="/css/css.css" media="all"><script async="" src="/js/analytics.js"></script><script>
+<link rel="stylesheet" href="/css/css.css" media="all">
+<script async="" src="/js/analytics.js"></script>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -19,7 +21,6 @@
 
   ga('create', 'UA-22783893-1', 'auto');
   ga('send', 'pageview');
-
 </script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="description" content="Hi-tech hydraulic hoses manufactured according to main international standard ISO, DIN/EN, SAE">
@@ -34,16 +35,13 @@
 		
 	<script>var foundation={};</script>
 	<script>function loadCSS(a,b,c){"use strict";var d=window.document.createElement("link"),e=b||window.document.getElementsByTagName("script")[0],f=window.document.styleSheets;return d.rel="stylesheet",d.href=a,d.media="only x",e.parentNode.insertBefore(d,e),d.onloadcssdefined=function(a){for(var b,c=0;c<f.length;c++)f[c].href&&f[c].href===d.href&&(b=!0);b?a():setTimeout(function(){d.onloadcssdefined(a)})},d.onloadcssdefined(function(){d.media=c||"all"}),d}</script>
-
-	
-
-			<link rel="stylesheet" type="text/css" media="all" href="HRW%20hydraulic%20hoses%20Italy_files/stacks.css">
-		<link rel="stylesheet" type="text/css" media="all" href="HRW%20hydraulic%20hoses%20Italy_files/stacks_page_page0.css">
-		<script type="text/javascript" charset="utf-8" src="HRW%20hydraulic%20hoses%20Italy_files/jquery-2.js"></script>
-        <link rel="stylesheet" href="HRW%20hydraulic%20hoses%20Italy_files/font-awesome.css">
+		<link rel="stylesheet" type="text/css" media="all" href="css/stacks.css">
+		<link rel="stylesheet" type="text/css" media="all" href="css/stacks_page_page0.css">
+		<script type="text/javascript" charset="utf-8" src="js/jquery-2.js"></script>
+        <link rel="stylesheet" href="css/font-awesome.css">
         
 		
-		<script type="text/javascript" charset="utf-8" src="HRW%20hydraulic%20hoses%20Italy_files/stacks_page_page0.js"></script>
+		<script type="text/javascript" charset="utf-8" src="js/stacks_page_page0.js"></script>
         <meta name="formatter" content="Stacks v3.5.3 (4110)">
 		<meta class="stacks3 stack version" id="com.joeworkman.stacks.foundation.logo" name="Logo" content="1.7.16">
 		<meta class="stacks3 stack version" id="com.joeworkman.stacks.foundation.paragraph.s3" name="Paragraph" content="1.7.16">
@@ -68,25 +66,13 @@
 		<meta class="stacks3 stack version" id="com.joeworkman.stacks.foundation.paragraph" name="Paragraph (Legacy)" content="1.7.16">
 		<meta class="stacks3 stack version" id="com.joeworkman.stacks.foundation.orbit" name="Orbit Slider" content="1.7.16">
 		<meta class="stacks3 stack version" id="com.joeworkman.stacks.foundation.3col.s3" name="3 Column Foundation" content="1.7.16">
-		
+		<script>var jQuery=stacks.jQuery,$=jQuery;</script>
+		<meta name="description" content="Hi-tech hydraulic hoses manufactured according to DIN/EN, ISO and SAE standard"> 
+		<meta name="ICBM" content="45.6601, 8.7916"><meta name="DC.title" content="Gallarate"><meta name="geo.position" content="45.6601;8.7916"><meta name="geo.placename" content="Gallarate"><meta name="geo.region" content="IT-VA"> 
 
-
-
-
-
-	<script>var jQuery=stacks.jQuery,$=jQuery;</script>
-	
-
-
-<meta name="description" content="Hi-tech hydraulic hoses manufactured according to DIN/EN, ISO and SAE standard"> 
-
-<meta name="ICBM" content="45.6601, 8.7916"><meta name="DC.title" content="Gallarate"><meta name="geo.position" content="45.6601;8.7916"><meta name="geo.placename" content="Gallarate"><meta name="geo.region" content="IT-VA"> 
-
-
-
-
-<style></style><meta class="foundation-mq-topbar"><link rel="stylesheet" type="text/css" id="SL_Style" href="HRW%20hydraulic%20hoses%20Italy_files/translator.css"></head>
-
+<style>
+</style>
+<meta class="foundation-mq-topbar"><link rel="stylesheet" type="text/css" id="SL_Style" href="css/translator.css"></head>
 <body class="antialiased">
 	<?php echo $content;?>
 </body>

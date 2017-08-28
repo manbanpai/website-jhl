@@ -5,7 +5,7 @@
 			<div id="stacks_in_3663_page0" class="stacks_in "></div>
 		</div>
 		<!-- Foundation SEO Helper -->
-		<?php $this->renderPartial('head');?>
+		<?php $this->renderPartial('/layouts/head');?>
 		
 		<div id="stacks_out_92368_page0"
 			class="stacks_out stacks_l_hidden stacks_m_hidden">
@@ -21,10 +21,10 @@
 
 			</div>
 		</div>
-		<?php $this->renderPartial('nav');?>
+		<?php $this->renderPartial('/layouts/nav');?>
 		
 		<!-- Banner -->
-		<?php $this->renderPartial('banner');?>
+		<?php $this->renderPartial('/layouts/banner');?>
 		
 		<div id="stacks_out_92464_page0" class="stacks_out">
 			<div id="stacks_in_92464_page0"
@@ -46,8 +46,8 @@
 													style="height: 346px;">
 
 													<div class="row        ">
-														<div class="columns small-12   ">
-															<div id="stacks_out_92625_page0" class="stacks_out">
+														<div class="columns small-12" style="border:1px solid red">
+															<div  id="stacks_out_92625_page0" class="stacks_out">
 																<div id="stacks_in_92625_page0"
 																	class="stacks_in com_joeworkman_stacks_foundation_header_stack">
 
@@ -106,7 +106,7 @@
 																											title="PRESSURE WASHER"> <img class="radius"
 																											oncontextmenu="return false;"
 																											draggable="false"
-																											src="HRW%20hydraulic%20hoses%20Italy_files/small_92557.jpg"
+																											src="images/small_92557.jpg"
 																											data-interchange="[files/small_92557.jpg,(default)]"
 																											alt="Pressure washer hoses"
 																											data-uuid="interchange-j6oge7167">
@@ -178,7 +178,7 @@
 																											title="LITERATURE"> <img class="radius"
 																											oncontextmenu="return false;"
 																											draggable="false"
-																											src="HRW%20hydraulic%20hoses%20Italy_files/small_92582.jpg"
+																											src="images/small_92582.jpg"
 																											data-interchange="[files/small_92582.jpg,(default)]"
 																											alt="CST smooth cover hoses"
 																											data-uuid="interchange-j6oge7168">
@@ -249,7 +249,7 @@
 																											title="CONTACTS"> <img class="radius"
 																											oncontextmenu="return false;"
 																											draggable="false"
-																											src="HRW%20hydraulic%20hoses%20Italy_files/small_92574.jpg"
+																											src="images/small_92574.jpg"
 																											data-interchange="[files/small_92574.jpg,(default)]"
 																											alt="Modular crimping unit"
 																											data-uuid="interchange-j6oge7169">
@@ -338,7 +338,7 @@
 																								href="http://www.hrw-web.it/products/hydraulic_hoses/"
 																								title="HYDRAULIC HOSES"> <img class=""
 																								oncontextmenu="return false;" draggable="false"
-																								src="HRW%20hydraulic%20hoses%20Italy_files/small_92413.jpg"
+																								src="images/small_92413.jpg"
 																								data-interchange="[files/small_92413.jpg,(default)]"
 																								alt="hydraulic hoses"
 																								data-uuid="interchange-j6oge716a">
@@ -407,7 +407,7 @@
 																								href="http://www.hrw-web.it/products/hydrojet/hydrojet.php"
 																								title="PRESSURE WASHER"> <img class=""
 																								oncontextmenu="return false;" draggable="false"
-																								src="HRW%20hydraulic%20hoses%20Italy_files/small_92423.jpg"
+																								src="images/small_92423.jpg"
 																								data-interchange="[files/small_92423.jpg,(default)]"
 																								alt="hydrojer" data-uuid="interchange-j6oge716b">
 																							</a>
@@ -491,7 +491,7 @@
 																			<a href="http://www.hrw-web.it/resources/tprf.pdf"
 																				rel="external" target="_blank"> <img class=""
 																				oncontextmenu="return false;" draggable="false"
-																				src="HRW%20hydraulic%20hoses%20Italy_files/small_92488.jpg"
+																				src="images/small_92488.jpg"
 																				data-interchange="[files/small_92488.jpg,(default)]"
 																				alt="Food grade hoses"
 																				data-uuid="interchange-j6oge716c">
@@ -542,7 +542,7 @@
 																							href="http://www.hrw-web.it/products/industrial_hoses/industrial_hoses.php"
 																							title="INDUSTRIAL HOSES"> <img class=""
 																							oncontextmenu="return false;" draggable="false"
-																							src="HRW%20hydraulic%20hoses%20Italy_files/small_92434.jpg"
+																							src="images/small_92434.jpg"
 																							data-interchange="[files/small_92434.jpg,(default)]"
 																							alt="industrial hoses"
 																							data-uuid="interchange-j6oge716d">
@@ -609,7 +609,7 @@
 																							href="http://www.hrw-web.it/products/machines/machines.php"
 																							title="MACHINES"> <img class=""
 																							oncontextmenu="return false;" draggable="false"
-																							src="HRW%20hydraulic%20hoses%20Italy_files/small_92444.jpg"
+																							src="images/small_92444.jpg"
 																							data-interchange="[files/small_92444.jpg,(default)]"
 																							alt="hose processing machines"
 																							data-uuid="interchange-j6oge716e">
@@ -691,7 +691,7 @@
 																		<a href="https://youtu.be/BaLVxiqt3D8" rel="external"
 																			target="_blank"> <img class=""
 																			oncontextmenu="return false;" draggable="false"
-																			src="HRW%20hydraulic%20hoses%20Italy_files/small_92493.jpg"
+																			src="images/small_92493.jpg"
 																			data-interchange="[files/small_92493.jpg,(default)]"
 																			alt="Crimping machine tutorial"
 																			data-uuid="interchange-j6oge716f">
@@ -728,7 +728,7 @@
 													<a href="http://www.hrw-web.it/products/smooth/"
 														title="SUPERBRAID SMOOTH"> <img class=""
 														oncontextmenu="return false;" draggable="false"
-														src="HRW%20hydraulic%20hoses%20Italy_files/small_92472.jpg"
+														src="images/small_92472.jpg"
 														data-interchange="[files/small_92472.jpg,(default)]"
 														alt="cst smooth hoses" data-uuid="interchange-j6oge716g">
 													</a>
@@ -764,6 +764,7 @@
 		</div>
 		
 		<!-- 底部 -->
+		<?php $this->renderPartial('/layouts/foot')?>
 	</div>
 </div>
 

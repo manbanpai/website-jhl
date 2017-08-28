@@ -73,6 +73,22 @@ return array(
 				*/
 			),
 		),
+		'clientScript'=>array(
+			'packages'=>array(
+				'jquery_min'=>array(
+					'basePath'=>'application.vendor.jquery',
+					'js'=>array('jquery-1.9.1.min.js'),
+					'coreScriptPosition'=>CClientScript::POS_END,
+				),
+				'bootstrap'=>array(
+					'basePath'=>'application.vendor.bootstrap',
+					'js'=>array('js/bootstrap.min.js'),
+					'css'=>array('css/bootstrap.min.css'),
+					'depends'=>array('jquery_min'),
+					'coreScriptPosition'=>CClientScript::POS_END,
+				),
+			),
+		),
 
 	),
 
