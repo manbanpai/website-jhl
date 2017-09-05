@@ -21,51 +21,51 @@
 							<ul class="menu centered" role="navigation">
 								<li class="divider"></li>
 								<li class="active not-click" role="menuitem"><a
-									href="http://www.hrw-web.it/">HOME</a></li>
+									href="<?php echo $this->createUrl('home/index');?>">HOME</a></li>
 								<li class="divider"></li>
 								<li class="not-click" role="menuitem"><a
-									href="http://www.hrw-web.it/this%20_is_hrw/" rel="">THIS IS HRW</a></li>
+									href="<?php echo $this->createUrl('hrw/index');?>" rel="">THIS IS HRW</a></li>
 								<li class="divider"></li>
 								<li class="has-dropdown not-click" role="menuitem"><a
-									href="http://www.hrw-web.it/products/" rel="" class="">PRODUCTS</a>
+									href="<?php echo $this->createUrl('products/index');?>" rel="" class="">PRODUCTS</a>
 									<ul class="dropdown" role="navigation">
 										<li class="title back js-generated"><h5>
 												<a href="javascript:void(0)">Back</a>
 											</h5></li>
 										<li class="parent-link hide-for-large-up"><a
 											class="parent-link js-generated"
-											href="http://www.hrw-web.it/products/">PRODUCTS</a></li>
+											href="<?php echo $this->createUrl('products/index');?>">PRODUCTS</a></li>
 										<li class="not-click" role="menuitem"><a
-											href="http://www.hrw-web.it/products/hydraulic_hoses/" rel="">HYDRAULIC
+											href="<?php echo $this->createUrl('products/hydraulic');?>" rel="">HYDRAULIC
 												HOSES</a></li>
 										<li class="not-click" role="menuitem"><a
-											href="http://www.hrw-web.it/products/Superbraid/" rel="">SUPERBRAID
+											href="<?php echo $this->createUrl('products/superbraid');?>" rel="">SUPERBRAID
 												EUR1</a></li>
 										<li class="not-click" role="menuitem"><a
-											href="http://www.hrw-web.it/products/smooth/" rel="">SUPERBRAID
+											href="<?php echo $this->createUrl('products/smooth');?>" rel="">SUPERBRAID
 												SMOOTH</a></li>
 										<li class="not-click" role="menuitem"><a
-											href="http://www.hrw-web.it/products/thermoplastic/hoses.php"
+											href="<?php echo $this->createUrl('products/thermoplastic');?>"
 											rel="">THERMOPLASTIC</a></li>
 										<li class="not-click" role="menuitem"><a
-											href="http://www.hrw-web.it/products/hydrojet/hydrojet.php"
+											href="<?php echo $this->createUrl('products/hydrojet');?>"
 											rel="">PRESSURE WASHER</a></li>
 										<li class="not-click" role="menuitem"><a
-											href="http://www.hrw-web.it/products/industrial_hoses/industrial_hoses.php"
+											href="<?php echo $this->createUrl('products/industrial');?>"
 											rel="">INDUSTRIAL HOSES</a></li>
 										<li class="not-click" role="menuitem"><a
-											href="http://www.hrw-web.it/products/machines/machines.php"
+											href="<?php echo $this->createUrl('products/machines');?>"
 											rel="">MACHINES</a></li>
 									</ul></li>
 								<li class="divider"></li>
 								<li class="not-click" role="menuitem"><a
-									href="http://www.hrw-web.it/literature/literature.php" rel="">LITERATURE</a></li>
+									href="<?php echo $this->createUrl('literature/index');?>" rel="">LITERATURE</a></li>
 								<li class="divider"></li>
 								<li class="not-click" role="menuitem"><a
-									href="http://www.hrw-web.it/contact/" rel="">CONTACTS</a></li>
+									href="<?php echo $this->createUrl('contact/index');?>" rel="">CONTACTS</a></li>
 								<li class="divider"></li>
 								<li class="not-click" role="menuitem"><a
-									href="http://www.hrw-web.it/privacy/privacy.php" rel="">PRIVACY</a></li>
+									href="<?php echo $this->createUrl('privacy/index');?>" rel="">PRIVACY</a></li>
 								<li class="divider"></li>
 							</ul>
 						</section>

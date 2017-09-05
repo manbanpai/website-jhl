@@ -41,8 +41,8 @@
 												<div class="text-right small-only-text-center ">
 													<img class="" oncontextmenu="return false;"
 														draggable="false"
-														src="HRW%20hydraulic%20hoses%20Italy_files/small_p3701_n4339.png"
-														data-interchange="[files/small_p3701_n4339.png,(default)]"
+														src="images/small_p3701_n4339.png"
+														data-interchange="[images/small_p3701_n4339.png,(default)]"
 														alt="Italy" data-uuid="interchange-j6oge7160">
 												</div>
 
@@ -55,8 +55,8 @@
 												<div class="text-right small-only-text-center ">
 													<a href="http://www.hrw.srl/"> <img class=""
 														oncontextmenu="return false;" draggable="false"
-														src="HRW%20hydraulic%20hoses%20Italy_files/small_p3701_n4340.png"
-														data-interchange="[files/small_p3701_n4340.png,(default)]"
+														src="images/small_p3701_n4340.png"
+														data-interchange="[images/small_p3701_n4340.png,(default)]"
 														alt="sito italiano" data-uuid="interchange-j6oge7161">
 													</a>
 												</div>

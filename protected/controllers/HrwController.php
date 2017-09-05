@@ -1,6 +1,6 @@
 <?php
 
-class HomeController extends Controller
+class HrwController extends Controller
 {
 	public $layout = 'main';
 	/**
@@ -13,5 +13,4 @@ class HomeController extends Controller
 		// using the default layout 'protected/views/layouts/main.php'
 		$this->render('index');
 	}
-
 }
