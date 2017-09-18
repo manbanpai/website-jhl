@@ -63,15 +63,15 @@
 	
 				</div>
 			</div>
-			<?php $this->renderPartial('/layouts/nav');?>
+			<?php $this->renderPartial('layouts/nav');?>
 			
 			<!-- Banner -->
-			<?php $this->renderPartial('/layouts/banner');?>
+			<?php $this->renderPartial('layouts/banner');?>
 			
 			<?php echo $content;?>
 			
 			<!-- 底部 -->
-			<?php //$this->renderPartial('/layouts/foot')?>
+			<?php //$this->renderPartial('layouts/foot')?>
 			
 			<script data-cfasync="true"
 		src="js/foundation.js"></script>
