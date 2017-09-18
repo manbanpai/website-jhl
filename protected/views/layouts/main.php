@@ -56,7 +56,7 @@
 	
 					<div class="text-center  ">
 						<img class="" oncontextmenu="return false;" draggable="false"
-							src="HRW%20hydraulic%20hoses%20Italy_files/small_92368.jpg"
+							src="/small_92368.jpg"
 							data-interchange="[files/small_92368.jpg,(default)]"
 							alt="HRW S.r.l." data-uuid="interchange-j6oge7162">
 					</div>
