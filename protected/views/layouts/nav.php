@@ -13,7 +13,7 @@
 						data-options="is_hover:true;custom_back_text:true;back_text:Back;mobile_show_parent_link:true;scrolltop:false;"
 						role="navigation">
 						<ul class="title-area title-area-site-setup">
-							<li class="name"><a href="http://www.hrw-web.it/"> </a></li>
+							<li class="name"><a href="http://www.hanks-hoses.com/"> </a></li>
 							<li class="toggle-topbar menu-icon"><a href="#"> <span>Menu</span>
 							</a></li>
 						</ul>

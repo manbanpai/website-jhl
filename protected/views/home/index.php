@@ -32,7 +32,7 @@
 																<div id="stacks_in_92634_page0"
 																	class="stacks_in com_joeworkman_stacks_foundation_button_stack">
 
-																	<a role="button" href="http://www.hrw-web.it/contact/"
+																	<a role="button" href="http://www.hanks-hoses.com/contact/"
 																		class=" button  ghost centered  secondary  "
 																		target="_blank" rel="external">MEET US</a>
 
@@ -74,7 +74,7 @@
 
 																									<div class="text-right  ">
 																										<a
-																											href="http://www.hrw-web.it/products/hydrojet/hydrojet.php"
+																											href="http://www.hanks-hoses.com/products/hydrojet/hydrojet.php"
 																											title="PRESSURE WASHER"> <img class="radius"
 																											oncontextmenu="return false;"
 																											draggable="false"
@@ -97,7 +97,7 @@
 
 																									<h6 class="text-left  fn-text-sw1c1   ">
 																										<a
-																											href="http://www.hrw-web.it/products/hydrojet/hydrojet.php"
+																											href="http://www.hanks-hoses.com/products/hydrojet/hydrojet.php"
 																											title="PRESSURE WASHER">HYDROJET 6000</a>
 																									</h6>
 
@@ -146,7 +146,7 @@
 
 																									<div class="text-right  ">
 																										<a
-																											href="http://www.hrw-web.it/literature/literature.php"
+																											href="http://www.hanks-hoses.com/literature/literature.php"
 																											title="LITERATURE"> <img class="radius"
 																											oncontextmenu="return false;"
 																											draggable="false"
@@ -169,7 +169,7 @@
 
 																									<h6 class="text-left  fn-text-sw1c1   ">
 																										<a
-																											href="http://www.hrw-web.it/literature/literature.php"
+																											href="http://www.hanks-hoses.com/literature/literature.php"
 																											title="LITERATURE">CATALOGUES</a>
 																									</h6>
 
@@ -217,7 +217,7 @@
 																									class="stacks_in com_joeworkman_stacks_foundation_image_stack">
 
 																									<div class="text-right  ">
-																										<a href="http://www.hrw-web.it/contact/"
+																										<a href="http://www.hanks-hoses.com/contact/"
 																											title="CONTACTS"> <img class="radius"
 																											oncontextmenu="return false;"
 																											draggable="false"
@@ -239,7 +239,7 @@
 																									class="stacks_in com_joeworkman_stacks_foundation_header_stack">
 
 																									<h6 class="text-left  fn-text-sw1c1   ">
-																										<a href="http://www.hrw-web.it/contact/"
+																										<a href="http://www.hanks-hoses.com/contact/"
 																											title="CONTACTS">SAMPLE BOX</a>
 																									</h6>
 
@@ -307,7 +307,7 @@
 
 																						<div class="text-left  ">
 																							<a
-																								href="http://www.hrw-web.it/products/hydraulic_hoses/"
+																								href="http://www.hanks-hoses.com/products/hydraulic_hoses/"
 																								title="HYDRAULIC HOSES"> <img class=""
 																								oncontextmenu="return false;" draggable="false"
 																								src="images/small_92413.jpg"
@@ -327,7 +327,7 @@
 
 																						<h6 class="text-left  alt   ">
 																							<a
-																								href="http://www.hrw-web.it/products/hydraulic_hoses/"
+																								href="http://www.hanks-hoses.com/products/hydraulic_hoses/"
 																								title="HYDRAULIC HOSES">Hydraulic hoses</a>
 																						</h6>
 
@@ -351,7 +351,7 @@
 																						class="stacks_in com_joeworkman_stacks_foundation_button_stack">
 
 																						<a role="button"
-																							href="http://www.hrw-web.it/products/hydraulic_hoses/"
+																							href="http://www.hanks-hoses.com/products/hydraulic_hoses/"
 																							class=" button  ghost  tiny secondary  "
 																							target="" rel="">ENTER</a>
 
@@ -376,7 +376,7 @@
 
 																						<div class="text-left  ">
 																							<a
-																								href="http://www.hrw-web.it/products/hydrojet/hydrojet.php"
+																								href="http://www.hanks-hoses.com/products/hydrojet/hydrojet.php"
 																								title="PRESSURE WASHER"> <img class=""
 																								oncontextmenu="return false;" draggable="false"
 																								src="images/small_92423.jpg"
@@ -395,7 +395,7 @@
 
 																						<h6 class="text-left  alt   ">
 																							<a
-																								href="http://www.hrw-web.it/products/hydrojet/hydrojet.php"
+																								href="http://www.hanks-hoses.com/products/hydrojet/hydrojet.php"
 																								title="PRESSURE WASHER">Hydrojet hoses</a>
 																						</h6>
 
@@ -418,7 +418,7 @@
 																						class="stacks_in com_joeworkman_stacks_foundation_button_stack">
 
 																						<a role="button"
-																							href="http://www.hrw-web.it/products/hydrojet/hydrojet.php"
+																							href="http://www.hanks-hoses.com/products/hydrojet/hydrojet.php"
 																							class=" button  ghost  tiny secondary  "
 																							target="" rel="">ENTER</a>
 
@@ -460,7 +460,7 @@
 																		class="stacks_in com_joeworkman_stacks_foundation_image_stack">
 
 																		<div class="text-center  ">
-																			<a href="http://www.hrw-web.it/resources/tprf.pdf"
+																			<a href="http://www.hanks-hoses.com/resources/tprf.pdf"
 																				rel="external" target="_blank"> <img class=""
 																				oncontextmenu="return false;" draggable="false"
 																				src="images/small_92488.jpg"
@@ -511,7 +511,7 @@
 
 																					<div class="text-left  ">
 																						<a
-																							href="http://www.hrw-web.it/products/industrial_hoses/industrial_hoses.php"
+																							href="http://www.hanks-hoses.com/products/industrial_hoses/industrial_hoses.php"
 																							title="INDUSTRIAL HOSES"> <img class=""
 																							oncontextmenu="return false;" draggable="false"
 																							src="images/small_92434.jpg"
@@ -531,7 +531,7 @@
 
 																					<h6 class="text-left  alt   ">
 																						<a
-																							href="http://www.hrw-web.it/products/industrial_hoses/industrial_hoses.php"
+																							href="http://www.hanks-hoses.com/products/industrial_hoses/industrial_hoses.php"
 																							title="INDUSTRIAL HOSES">Industrial hoses</a>
 																					</h6>
 
@@ -553,7 +553,7 @@
 																					class="stacks_in com_joeworkman_stacks_foundation_button_stack">
 
 																					<a role="button"
-																						href="http://www.hrw-web.it/products/industrial_hoses/industrial_hoses.php"
+																						href="http://www.hanks-hoses.com/products/industrial_hoses/industrial_hoses.php"
 																						class=" button  ghost  tiny secondary  " target=""
 																						rel="">ENTER</a>
 
@@ -578,7 +578,7 @@
 
 																					<div class="text-left  ">
 																						<a
-																							href="http://www.hrw-web.it/products/machines/machines.php"
+																							href="http://www.hanks-hoses.com/products/machines/machines.php"
 																							title="MACHINES"> <img class=""
 																							oncontextmenu="return false;" draggable="false"
 																							src="images/small_92444.jpg"
@@ -598,7 +598,7 @@
 
 																					<h6 class="text-left  alt   ">
 																						<a
-																							href="http://www.hrw-web.it/products/machines/machines.php"
+																							href="http://www.hanks-hoses.com/products/machines/machines.php"
 																							title="MACHINES">Equipments</a>
 																					</h6>
 
@@ -620,7 +620,7 @@
 																					class="stacks_in com_joeworkman_stacks_foundation_button_stack">
 
 																					<a role="button"
-																						href="http://www.hrw-web.it/products/machines/machines.php"
+																						href="http://www.hanks-hoses.com/products/machines/machines.php"
 																						class=" button  ghost  tiny secondary  " target=""
 																						rel="">ENTER</a>
 
@@ -697,7 +697,7 @@
 												class="stacks_in com_joeworkman_stacks_foundation_image_stack">
 
 												<div class="text-center small-only-text-center ">
-													<a href="http://www.hrw-web.it/products/smooth/"
+													<a href="http://www.hanks-hoses.com/products/smooth/"
 														title="SUPERBRAID SMOOTH"> <img class=""
 														oncontextmenu="return false;" draggable="false"
 														src="images/small_92472.jpg"

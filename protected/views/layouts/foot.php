@@ -101,7 +101,7 @@
 
 																			<p class="text-left alt " draggable="false">
 																				<strong><em>Contact us</em></strong><br>On-line: <a
-																					href="http://www.hrw-web.it/contact/"
+																					href="http://www.hanks-hoses.com/contact/"
 																					title="contact us">contact page</a><br>Email: <a
 																					href="mailto:%20info@hrw-web.it">info@hrw-web.it</a><br>Fax:
 																				+39 0332 1800936<br>

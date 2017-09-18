@@ -17,7 +17,7 @@
 											<div id="stacks_in_p3701_n3714_page0"
 												class="stacks_in com_joeworkman_stacks_foundation_logo_stack">
 
-												<a href="http://www.hrw-web.it/" title="home"><img
+												<a href="http://www.hanks-hoses.com/" title="home"><img
 													src="images/HRW_logo.png"
 													alt="HRW S.R.L." width="240" height="47"></a>
 
