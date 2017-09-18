@@ -18,7 +18,7 @@
 													style="height: 346px;">
 
 													<div class="row        ">
-														<div class="columns small-12" style="border:1px solid red">
+														<div class="columns small-12">
 															<div  id="stacks_out_92625_page0" class="stacks_out">
 																<div id="stacks_in_92625_page0"
 																	class="stacks_in com_joeworkman_stacks_foundation_header_stack">
