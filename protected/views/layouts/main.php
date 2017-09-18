@@ -66,7 +66,7 @@
 			<?php $this->renderPartial('//layouts/nav');?>
 			
 			<!-- Banner -->
-			<?php $this->renderPartial('//layouts/banner');?>
+			<?php //$this->renderPartial('//layouts/banner');?>
 			
 			<?php echo $content;?>
 			
