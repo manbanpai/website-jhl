@@ -38,4 +38,20 @@ class ProductsController extends Controller
 		
 		$this->render('thermoplastic');
 	}
+	
+	public function actionMachines()
+	{
+		$this->render('machines');
+	}
+	
+	public function actionIndustrial(){
+		
+		$this->render('industrial');
+	}
+	
+	public function actionHydrojet()
+	{
+		
+		$this->render('hydrojet');
+	}
 }

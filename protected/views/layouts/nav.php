@@ -19,14 +19,11 @@
 						</ul>
 						<section class="top-bar-section font-family-text menu-rw">
 							<ul class="menu centered" role="navigation">
-								<li class="divider"></li>
-								<li class="active not-click" role="menuitem"><a
+								<li class="<?php if(Yii::app()->controller->id == 'home'){echo 'active';}?> not-click" role="menuitem"><a
 									href="<?php echo $this->createUrl('home/index');?>">HOME</a></li>
-								<li class="divider"></li>
-								<li class="not-click" role="menuitem"><a
+								<li class="<?php if(Yii::app()->controller->id == 'hrw'){echo 'active';}?> not-click" role="menuitem"><a
 									href="<?php echo $this->createUrl('hrw/index');?>" rel="">THIS IS HRW</a></li>
-								<li class="divider"></li>
-								<li class="has-dropdown not-click" role="menuitem"><a
+								<li class="has-dropdown <?php if(Yii::app()->controller->id == 'products'){echo 'active';}?> not-click" role="menuitem"><a
 									href="<?php echo $this->createUrl('products/index');?>" rel="" class="">PRODUCTS</a>
 									<ul class="dropdown" role="navigation">
 										<li class="title back js-generated"><h5>
@@ -57,16 +54,12 @@
 											href="<?php echo $this->createUrl('products/machines');?>"
 											rel="">MACHINES</a></li>
 									</ul></li>
-								<li class="divider"></li>
-								<li class="not-click" role="menuitem"><a
+								<li class="<?php if(Yii::app()->controller->id == 'literature'){echo 'active';}?> not-click" role="menuitem"><a
 									href="<?php echo $this->createUrl('literature/index');?>" rel="">LITERATURE</a></li>
-								<li class="divider"></li>
-								<li class="not-click" role="menuitem"><a
+								<li class="<?php if(Yii::app()->controller->id == 'contact'){echo 'active';}?> not-click" role="menuitem"><a
 									href="<?php echo $this->createUrl('contact/index');?>" rel="">CONTACTS</a></li>
-								<li class="divider"></li>
-								<li class="not-click" role="menuitem"><a
+								<li class="<?php if(Yii::app()->controller->id == 'privacy'){echo 'active';}?> not-click" role="menuitem"><a
 									href="<?php echo $this->createUrl('privacy/index');?>" rel="">PRIVACY</a></li>
-								<li class="divider"></li>
 							</ul>
 						</section>
 					</nav>

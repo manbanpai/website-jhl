@@ -33,18 +33,7 @@
 																	<div id="stacks_in_p64325_n4607_page0"
 																		class="stacks_in com_yabdab_stacks_formloom3_stack">
 																		<!-- FormLoom 3 Remote v 1.0.0 | (c) 2014 Yabdab Inc.  -->
-																		<iframe
-																			src="HRW%20hydraulic%20hoses%20Italy_files/a_002.htm"
-																			allowtransparency="true" scrolling="no"
-																			style="width: 100%; border: medium none; overflow: hidden; height: 103px;"
-																			frameborder="0"></iframe>
-																		<script
-																			src="HRW%20hydraulic%20hoses%20Italy_files/formloom3.js"
-																			data-fl3-path="newsletter_form/"
-																			data-fl3-page="stacks_in_p64325_n4607_page0"></script>
-
-
-
+																		<?php echo $this->renderPartial('//layouts/form');?>
 																	</div>
 																</div>
 															</div>
@@ -70,7 +59,7 @@
 																			<p class="text-left alt " draggable="false">
 																				<strong><em>HRW S.r.l.</em></strong><br>Via Marsala
 																				40/C<br>21013 Gallarate (VA) - Italy<br>VAT:
-																				IT03224930127<br>RAE: VA0333353<br>
+																				<?php echo Yii::app()->params['fax']?><br>RAE: <?php echo Yii::app()->params['rae']?><br>
 																			</p>
 
 																		</div>
@@ -101,10 +90,10 @@
 
 																			<p class="text-left alt " draggable="false">
 																				<strong><em>Contact us</em></strong><br>On-line: <a
-																					href="http://www.hanks-hoses.com/contact/"
+																					href="<?php echo $this->createUrl('contact/index')?>"
 																					title="contact us">contact page</a><br>Email: <a
-																					href="mailto:%20info@hrw-web.it">info@hrw-web.it</a><br>Fax:
-																				+39 0332 1800936<br>
+																					href="mailto:%20info@<?php echo Yii::app()->params['fax']?>"><?php echo Yii::app()->params['email']?></a><br>Fax:
+																				<?php echo Yii::app()->params['fax']?><br>
 																				<a href="http://www.hrw.srl/" rel="external"
 																					target="_blank">HRW sito Italiano</a><br>
 																			</p>
