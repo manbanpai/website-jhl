@@ -33,7 +33,7 @@
 																	<div id="stacks_in_p64325_n4607_page0"
 																		class="stacks_in com_yabdab_stacks_formloom3_stack">
 																		<!-- FormLoom 3 Remote v 1.0.0 | (c) 2014 Yabdab Inc.  -->
-																		<?php echo $this->renderPartial('//layouts/form');?>
+																		<?php echo $this->renderPartial('//layouts/form1');?>
 																	</div>
 																</div>
 															</div>
