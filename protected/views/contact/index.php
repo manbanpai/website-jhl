@@ -24,7 +24,7 @@
 								may also send an e-mail directly to this address:
 							</span><span
 								style="font: 15px Arial, Verdana, Helvetica, sans-serif; color: #000000;"><a
-								href="mailto:info@<?php echo Yii::app()->params['email']?>"><?php echo Yii::app()->params['email']?> </a></span>
+								href="mailto:info@info@hanks-hoses.com?>">info@hanks-hoses.com </a></span>
 						</p>
 
 					</div>
@@ -42,40 +42,8 @@
 						class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
 
 						<div class='row     divider divider-large-up'>
-							<div class='columns small-12   medium-6    large-7   '>
-								<div id='stacks_out_4608_page6' class='stacks_out'>
-									<div id='stacks_in_4608_page6'
-										class='stacks_in com_yabdab_stacks_formloom3_stack'>
-										<!-- FormLoom 3 Remote v 1.0.0 | (c) 2014 Yabdab Inc.  -->
-										<?php echo $this->renderPartial('form')?>
-									</div>
-								</div>
-								<div id='stacks_out_16465_page6' class='stacks_out'>
-									<div id='stacks_in_16465_page6'
-										class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-										<p class="text-left    " draggable="false">
-											<span
-												style="font: 15px Arial, Verdana, Helvetica, sans-serif; font-weight: bold; color: #000000; font-weight: bold;">Privacy
-												Policy</span><span
-												style="font: 14px Times-Roman; color: #000000;"><br /></span><span
-												style="font: 15px Arial, Verdana, Helvetica, sans-serif; color: #000000;">We
-												collect no information about our users that is not supplied
-												voluntarily through this forms or e-mail. Any information
-												collected in this manner is never shared with anyone unless
-												expressly requested by the user. We do not sell or reveal
-												user information to anyone. As with all other information,
-												these data do not leave our sites.<br />For more information
-												on HRW privacy policy please visit this page
-											</span><span
-												style="font: 15px Arial, Verdana, Helvetica, sans-serif; color: #000000;"><a
-												href="../privacy/privacy.php" rel="external" title="privacy">&ldquo;Privacy&rdquo;</a></span>
-										</p>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-6    large-5   '>
+							
+							<div class='columns small-12   medium-12    large-12   '>
 								<div id='stacks_out_4487_page6' class='stacks_out'>
 									<div id='stacks_in_4487_page6'
 										class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
@@ -103,8 +71,12 @@
 
 														<p class="text-left  small-only-text-center  "
 															draggable="false">
-															HRW S.r.l.<br />Via Marsala 40/C<br />21013 Gallarate
-															(VA)<br />Italy
+															QINGDAO HANKS RUBBER HOSE CO.,LTD<br />
+															ADD: 2-2-502 NO.95 Shaoxing Road, Shibei district, Qingdao City, Shandong Provice<br />
+															Mob:+86-17753210701<br/>
+															Email: info@hanks-hoses.com<br/> 
+															Email: sales@hanks-hoses.com
+															
 														</p>
 
 													</div>
@@ -176,7 +148,14 @@
 														class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
 
 														<p class="text-left  small-only-text-center  "
-															draggable="false">Skype: hrw.italy</p>
+															draggable="false">Skype: 
+																export@hanks-hoses.com<br>
+											                      china@hanks-hoses.com<br>
+											                      hanks@hanks-hoses.com<br>
+											                      qh@hanks-hoses.com<br>
+											                      Sales2@hanks-hoses.com<br>
+																
+															</p>
 
 													</div>
 												</div>

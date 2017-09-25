@@ -97,7 +97,7 @@ return array(
 	'params'=>array(
 		// this is used in contact page
 		'adminEmail'=>'webmaster@example.com',
-		'email'=>'',
+		'email'=>'info@hanks-hoses.com',
 		'fax'=>'',
 		'vat'=>'',
 		'rae'=>'',
