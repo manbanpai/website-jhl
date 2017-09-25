@@ -19,7 +19,7 @@
 
 												<a href="http://www.hanks-hoses.com/" title="home"><img
 													src="images/HRW_logo.png"
-													alt="HRW S.R.L." width="240" height="47"></a>
+													alt="HRW S.R.L." width="140" height="47"></a>
 
 											</div>
 										</div>
@@ -27,8 +27,7 @@
 											<div id="stacks_in_p3701_n4341_page0"
 												class="stacks_in com_joeworkman_stacks_foundation_header_stack">
 
-												<h6 class="text-left  alt   ">HRW Rubber Hoses - Gallarate
-													(VA) - Italy</h6>
+												<h6 class="text-left  alt   ">HANKS RUBBER HOSE - CHINA</h6>
 
 											</div>
 										</div>

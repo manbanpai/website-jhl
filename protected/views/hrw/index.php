@@ -163,8 +163,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/small_10047.jpg"
-													data-interchange='[images/small_10047.jpg,(default)]'
+													draggable="false" src="images/hrw/small_10047.jpg"
+													data-interchange='[images/hrw/small_10047.jpg,(default)]'
 													alt="HRW authorized distributor" />
 											</div>
 
@@ -189,8 +189,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/small_10048.jpg"
-													data-interchange='[images/small_10048.jpg,(default)]'
+													draggable="false" src="images/hrw/small_10048.jpg"
+													data-interchange='[images/hrw/small_10048.jpg,(default)]'
 													alt="HRW hydraulic hoses" />
 											</div>
 
@@ -215,8 +215,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/small_10049.jpg"
-													data-interchange='[images/small_10049.jpg,(default)]'
+													draggable="false" src="images/hrw/small_10049.jpg"
+													data-interchange='[images/hrw/small_10049.jpg,(default)]'
 													alt="hydraulic hoses" />
 											</div>
 
@@ -241,124 +241,7 @@
 					</div>
 				</div>
 				
-				<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-				  <!-- Indicators -->
-				  <ol class="carousel-indicators">
-				    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-				    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-				    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-				  </ol>
-				
-				  <!-- Wrapper for slides -->
-				  <div class="carousel-inner" role="listbox">
-				    <div class="item active">
-				      <img src="images/small_12729.jpg" alt="My Image" />
-				      <div class="carousel-caption">
-				        ...
-				      </div>
-				    </div>
-				    <div class="item">
-				      <img src="images/small_12733.jpg" alt="My Image" />
-				      <div class="carousel-caption">
-				        ...
-				      </div>
-				    </div>
-				    <div class="item">
-				      <img src="images/small_12735.jpg" alt="My Image" />
-				      <div class="carousel-caption">
-				        ...
-				      </div>
-				    </div>
-				    
-				  </div>
-				
-				  <!-- Controls -->
-				  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-				    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-				    <span class="sr-only">Previous</span>
-				  </a>
-				  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-				    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-				    <span class="sr-only">Next</span>
-				  </a>
-				</div>
-
-
-				<div id='stacks_out_12761_page1' class='stacks_out'>
-					<div id='stacks_in_12761_page1'
-						class='stacks_in com_joeworkman_stacks_foundation_1col_s3_stack'>
-
-						<div class='row        '>
-							<div class='columns small-12   '>
-								<div id='stacks_out_12738_page1' class='stacks_out'>
-									<div id='stacks_in_12738_page1'
-										class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-										<p class="text-left    " draggable="false">HRW offer a
-											complete portfolio of premium quality high pressure hydraulic
-											hoses across a network of authorized distributors. HRW hoses
-											applications include and are not limited to industrial,
-											agriculture, forestal, energy, construction.</p>
-
-									</div>
-								</div>
-								<div id='stacks_out_12740_page1' class='stacks_out'>
-									<div id='stacks_in_12740_page1'
-										class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-										<p class="text-left    " draggable="false">HRW consider
-											sustainability a driver in the process of continuous
-											improvement that guarantees results over the time, while
-											reinforcing its business performances and reputation.</p>
-
-									</div>
-								</div>
-								<div id='stacks_out_12742_page1' class='stacks_out'>
-									<div id='stacks_in_12742_page1'
-										class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-										<p class="text-left    " draggable="false">The primary goal of
-											HRW&rsquo;s strategy of international expansion is to grant
-											the presence in the countries where our main clients
-											operates, so that our products may be supplied more rapidly
-											and more efficiently.</p>
-
-									</div>
-								</div>
-								<div id='stacks_out_12744_page1' class='stacks_out'>
-									<div id='stacks_in_12744_page1'
-										class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-										<p class="text-left    " draggable="false">HRW rubber
-											hydraulic hoses are manufactured to meet or exceed DIN EN,
-											SAE and other industry requirements using high quality raw
-											materials in advanced and equipped manufacturing plants.</p>
-
-									</div>
-								</div>
-								<div id='stacks_out_12746_page1' class='stacks_out'>
-									<div id='stacks_in_12746_page1'
-										class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-										<p class="text-left    " draggable="false">
-											<span
-												style="font: 15px Arial, Verdana, Helvetica, sans-serif;">HRW
-												team is strongly focussed on preventing mistakes or defects
-												in manufactured products and avoiding problems when
-												delivering solutions or services to customers. Quality
-												assurance is applied to physical products in pre-production
-												to verify what will be made meets HRW specifications and
-												requirements, and during manufacturing production by
-												validating lot samples by specified quality controls. </span>
-										</p>
-
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
+				<?php echo $this->renderPartial('third');?>
 			</div>
 		</div>
 
