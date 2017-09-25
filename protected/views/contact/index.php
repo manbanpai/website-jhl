@@ -24,7 +24,7 @@
 								may also send an e-mail directly to this address:
 							</span><span
 								style="font: 15px Arial, Verdana, Helvetica, sans-serif; color: #000000;"><a
-								href="mailto:info@info@hanks-hoses.com?>">info@hanks-hoses.com </a></span>
+								href="mailto:info@hanks-hoses.com?>">info@hanks-hoses.com </a></span>
 						</p>
 
 					</div>
