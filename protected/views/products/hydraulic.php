@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" media="all"
-	href="css/stacks_page_page11.css">	
+	href="css/stacks_page_page11.css">
 
 <div id='stacks_out_7741_page11'
 	class='stacks_out stacks_m_hidden stacks_s_hidden'>
@@ -17,7 +17,7 @@
 		<div class='row        '>
 			<div
 				class='columns small-12  small-centered    medium-12      large-9  large-centered     '>
-			
+
 				<div id='stacks_out_78801_page11' class='stacks_out'>
 					<div id='stacks_in_78801_page11'
 						class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
@@ -302,7 +302,7 @@
 
 					</div>
 				</div>
-	
+
 				<div id='stacks_out_79113_page11' class='stacks_out'>
 					<div id='stacks_in_79113_page11'
 						class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
@@ -311,7 +311,7 @@
 
 					</div>
 				</div>
-			
+
 				<div id='stacks_out_79093_page11' class='stacks_out'>
 					<div id='stacks_in_79093_page11'
 						class='stacks_in com_joeworkman_stacks_foundation_4col_s3_stack'>
@@ -1216,7 +1216,7 @@
 
 					</div>
 				</div>
-		
+
 			</div>
 		</div>
 

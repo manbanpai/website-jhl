@@ -49,7 +49,7 @@
 	href="css/translator.css">
 </head>
 
-<body class="antialiased">
+<body class="antialiased" >
 	<div id="foundation-loader"></div>
 	<div id="stacks_out_60_page0" class="stacks_top">
 		<div id="stacks_in_60_page0" class="">
@@ -77,8 +77,10 @@
 			<!-- Banner -->
 			<?php $this->renderPartial('//layouts/banner');?>
 			
+			<div style="background-image:url('/images/bg.jpg');background-attachment: fixed;background-repeat: no-repeat;
+background-size: cover;">
 			<?php echo $content;?>
-			
+			</div>
 			<!-- 底部 -->
 			<?php $this->renderPartial('//layouts/foot')?>
 			

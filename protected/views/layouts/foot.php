@@ -7,13 +7,14 @@
 
 				<div class="row        ">
 
-					<div class="columns small-12   medium-8    large-8  large-offset-2  ">
+					<div
+						class="columns small-12   medium-8    large-8  large-offset-2  ">
 						<div class="match-height" id="stacks_in_p64325_n12720_page0">
 							<div id="stacks_out_p64325_n11358_page0" class="stacks_out">
 								<div id="stacks_in_p64325_n11358_page0"
 									class="stacks_in com_joeworkman_stacks_foundation_3col_s3_stack">
 
-									<div class="row     divider divider-large-up" >
+									<div class="row     divider divider-large-up">
 										<div class="columns small-12   medium-6">
 											<div id="stacks_out_p64325_n12712_page0" class="stacks_out">
 												<div id="stacks_in_p64325_n12712_page0"

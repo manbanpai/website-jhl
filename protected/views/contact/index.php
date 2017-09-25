@@ -42,7 +42,7 @@
 						class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
 
 						<div class='row     divider divider-large-up'>
-							
+
 							<div class='columns small-12   medium-12    large-12   '>
 								<div id='stacks_out_4487_page6' class='stacks_out'>
 									<div id='stacks_in_4487_page6'
@@ -71,12 +71,11 @@
 
 														<p class="text-left  small-only-text-center  "
 															draggable="false">
-															QINGDAO HANKS RUBBER HOSE CO.,LTD<br />
-															ADD: 2-2-502 NO.95 Shaoxing Road, Shibei district, Qingdao City, Shandong Provice<br />
-															Mob:+86-17753210701<br/>
-															Email: info@hanks-hoses.com<br/> 
-															Email: sales@hanks-hoses.com
-															
+															QINGDAO HANKS RUBBER HOSE CO.,LTD<br /> ADD: 2-2-502
+															NO.95 Shaoxing Road, Shibei district, Qingdao City,
+															Shandong Provice<br /> Mob:+86-17753210701<br /> Email:
+															info@hanks-hoses.com<br /> Email: sales@hanks-hoses.com
+
 														</p>
 
 													</div>
@@ -116,7 +115,8 @@
 															draggable="false">
 															Email: <span
 																style="font: 15px Arial, Verdana, Helvetica, sans-serif; color: #000000;"><a
-																href="mailto:info@hanks-hoses.com">info@hanks-hoses.com </a></span><br />Fax:<?php echo Yii::app()->params['fax']?>
+																href="mailto:info@hanks-hoses.com">info@hanks-hoses.com
+															</a></span><br />Fax:<?php echo Yii::app()->params['fax']?>
 															<br />
 														</p>
 
@@ -148,14 +148,12 @@
 														class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
 
 														<p class="text-left  small-only-text-center  "
-															draggable="false">Skype: 
-																export@hanks-hoses.com<br>
-											                      china@hanks-hoses.com<br>
-											                      hanks@hanks-hoses.com<br>
-											                      qh@hanks-hoses.com<br>
-											                      Sales2@hanks-hoses.com<br>
-																
-															</p>
+															draggable="false">
+															Skype: export@hanks-hoses.com<br> china@hanks-hoses.com<br>
+															hanks@hanks-hoses.com<br> qh@hanks-hoses.com<br>
+															Sales2@hanks-hoses.com<br>
+
+														</p>
 
 													</div>
 												</div>
@@ -257,8 +255,9 @@
 										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 										<div class="text-center small-only-text-center ">
-											<a href="<?php echo $this->createUrl('products/smooth')?>" title="SUPERBRAID SMOOTH"> <img
-												class="" oncontextmenu="return false;" draggable="false"
+											<a href="<?php echo $this->createUrl('products/smooth')?>"
+												title="SUPERBRAID SMOOTH"> <img class=""
+												oncontextmenu="return false;" draggable="false"
 												src="images/contact/small_16482.jpg"
 												data-interchange='[files/small_16482.jpg,(default)]'
 												alt="Smooth cover hoses" />
@@ -274,8 +273,10 @@
 										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 										<div class="text-center small-only-text-center ">
-											<a href="<?php echo $this->createUrl('products/superbraid')?>" title="SUPERBRAID EUR1"> <img
-												class="" oncontextmenu="return false;" draggable="false"
+											<a
+												href="<?php echo $this->createUrl('products/superbraid')?>"
+												title="SUPERBRAID EUR1"> <img class=""
+												oncontextmenu="return false;" draggable="false"
 												src="images/contact/small_16483.jpg"
 												data-interchange='[files/small_16483.jpg,(default)]'
 												alt="Made in Europe hoses" />
