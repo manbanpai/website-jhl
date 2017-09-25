@@ -95,7 +95,7 @@
 
 														<p class="text-left  small-only-text-center  "
 															draggable="false">
-															VAT N.: IT03224930127<br />RAE: VA0333353
+															VAT N.: <?php echo Yii::app()->params['vat']?><br />RAE: <?php echo Yii::app()->params['rae']?>
 														</p>
 
 													</div>
@@ -116,8 +116,8 @@
 															draggable="false">
 															Email: <span
 																style="font: 15px Arial, Verdana, Helvetica, sans-serif; color: #000000;"><a
-																href="mailto:info@hrw-web.it">info@hrw-web.it </a></span><br />Fax:
-															+39 0322 1800936<br />
+																href="mailto:info@hanks-hoses.com">info@hanks-hoses.com </a></span><br />Fax:<?php echo Yii::app()->params['fax']?>
+															<br />
 														</p>
 
 													</div>
