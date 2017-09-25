@@ -69,7 +69,7 @@
 																class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 																<div class="text-left  ">
-																	<a href="../products/hydraulic_hoses/"
+																	<a href="<?php echo $this->createUrl('products/hydraulic')?>"
 																		title="HYDRAULIC HOSES"> <img class=""
 																		oncontextmenu="return false;" draggable="false"
 																		src="images/products/small_92619.jpg"
@@ -87,7 +87,7 @@
 																class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
 																<h6 class="text-left  alt   ">
-																	<a href="../products/hydraulic_hoses/"
+																	<a href="<?php echo $this->createUrl('products/hydraulic')?>"
 																		title="HYDRAULIC HOSES">Hydraulic hoses</a>
 																</h6>
 
@@ -110,7 +110,7 @@
 															<div id='stacks_in_92625_page2'
 																class='stacks_in com_joeworkman_stacks_foundation_button_stack'>
 
-																<a role="button" href="../products/hydraulic_hoses/"
+																<a role="button" href="<?php echo $this->createUrl('products/hydraulic')?>"
 																	class=" button  ghost  tiny secondary  " target=""
 																	rel="">ENTER</a>
 
@@ -123,136 +123,76 @@
 										</div>
 									</div>
 									<div class='columns small-12   medium-6   '>
-										<div id='stacks_out_92628_page2' class='stacks_out'>
-											<div id='stacks_in_92628_page2'
-												class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
+									<div id='stacks_out_92659_page2' class='stacks_out'>
+										<div id='stacks_in_92659_page2'
+											class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
 
-												<div class='row     '>
-													<div class='columns small-6   medium-6    large-6   '>
-														<div id='stacks_out_92629_page2' class='stacks_out'>
-															<div id='stacks_in_92629_page2'
-																class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+											<div class='row     '>
+												<div class='columns small-6   medium-6   '>
+													<div id='stacks_out_92660_page2' class='stacks_out'>
+														<div id='stacks_in_92660_page2'
+															class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
-																<div class="text-left  ">
-																	<a href="../products/hydrojet/hydrojet.php"
-																		title="PRESSURE WASHER"> <img class=""
-																		oncontextmenu="return false;" draggable="false"
-																		src="images/products/small_92629.jpg"
-																		data-interchange='[images/products/small_92629.jpg,(default)]'
-																		alt="hydrojer" />
-																	</a>
-																</div>
-
+															<div class="text-left  ">
+																<a href="<?php echo $this->createUrl('products/machines')?>"
+																	title="MACHINES"> <img class=""
+																	oncontextmenu="return false;" draggable="false"
+																	src="images/products/small_92660.jpg"
+																	data-interchange='[images/products/small_92660.jpg,(default)]'
+																	alt="hose processing machines" />
+																</a>
 															</div>
-														</div>
-													</div>
-													<div class='columns small-6   medium-6    large-6   '>
-														<div id='stacks_out_92631_page2' class='stacks_out'>
-															<div id='stacks_in_92631_page2'
-																class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-																<h6 class="text-left  alt   ">
-																	<a href="../products/hydrojet/hydrojet.php"
-																		title="PRESSURE WASHER">Hydrojet hoses</a>
-																</h6>
-
-															</div>
-														</div>
-														<div id='stacks_out_92633_page2'
-															class='stacks_out stacks_s_hidden'>
-															<div id='stacks_in_92633_page2'
-																class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-																<p class="text-left alt   " draggable="false">
-																	- up to 400 bar<br />- T max 155 &deg;C <br />- Blue &
-																	black<br />
-																</p>
-
-															</div>
-														</div>
-														<div id='stacks_out_92635_page2' class='stacks_out'>
-															<div id='stacks_in_92635_page2'
-																class='stacks_in com_joeworkman_stacks_foundation_button_stack'>
-
-																<a role="button"
-																	href="../products/hydrojet/hydrojet.php"
-																	class=" button  ghost  tiny secondary  " target=""
-																	rel="">ENTER</a>
-
-															</div>
 														</div>
 													</div>
 												</div>
+												<div class='columns small-6   medium-6   '>
+													<div id='stacks_out_92662_page2' class='stacks_out'>
+														<div id='stacks_in_92662_page2'
+															class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
+															<h6 class="text-left  alt   ">
+																<a href="<?php echo $this->createUrl('products/machines')?>"
+																	title="MACHINES">Equipments</a>
+															</h6>
+
+														</div>
+													</div>
+													<div id='stacks_out_92664_page2'
+														class='stacks_out stacks_s_hidden'>
+														<div id='stacks_in_92664_page2'
+															class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
+
+															<p class="text-left alt   " draggable="false">
+																- crimping<br />- cutting<br />- skive
+															</p>
+
+														</div>
+													</div>
+													<div id='stacks_out_92666_page2' class='stacks_out'>
+														<div id='stacks_in_92666_page2'
+															class='stacks_in com_joeworkman_stacks_foundation_button_stack'>
+
+															<a role="button" href="<?php echo $this->createUrl('products/machines')?>"
+																class=" button  ghost  tiny secondary  " target=""
+																rel="">ENTER</a>
+
+														</div>
+													</div>
+												</div>
 											</div>
+
 										</div>
 									</div>
+								</div>
 								</div>
 
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class='columns small-12   medium-12    large-4   '
-					data-equalizer-watch>
-					<div class="equalizer small-up">
-						<div id='stacks_out_92639_page2'
-							class='stacks_out stacks_m_hidden stacks_s_hidden'>
-							<div id='stacks_in_92639_page2'
-								class='stacks_in com_joeworkman_stacks_foundation_1col_s3_stack'>
-
-								<div class='row        '>
-									<div class='columns small-12   '>
-										<div id='stacks_out_92640_page2' class='stacks_out'>
-											<div id='stacks_in_92640_page2'
-												class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-												<h6 class="text-left subheader alt   ">Food grade high
-													pressure</h6>
-
-											</div>
-										</div>
-										<div id='stacks_out_92642_page2' class='stacks_out'>
-											<div id='stacks_in_92642_page2'
-												class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-												<div class="text-center  ">
-													<a href="../resources/tprf.pdf" rel="external"> <img
-														class="" oncontextmenu="return false;" draggable="false"
-														src="images/products/small_92642.jpg"
-														data-interchange='[images/products/small_92642.jpg,(default)]'
-														alt="Food grade hoses" />
-													</a>
-												</div>
-
-											</div>
-										</div>
-									</div>
-								</div>
-
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</div>
-	</div>
-</div>
-
-<div class="match-height" id="stacks_in_92646_page2">
-	<div id='stacks_out_92647_page2' class='stacks_out'>
-		<div id='stacks_in_92647_page2'
-			class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
-
-			<div class='row   max-custom  '>
-				<div class='columns small-12   medium-12    large-8   '>
-					<div id='stacks_out_92648_page2' class='stacks_out'>
-						<div id='stacks_in_92648_page2'
-							class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
-
-							<div class='row     '>
-								<div class='columns small-12   medium-6   '>
+				<!-- 第三块 -->
+				<div class='columns small-12   medium-12   large-4'>
 									<div id='stacks_out_92649_page2' class='stacks_out'>
 										<div id='stacks_in_92649_page2'
 											class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
@@ -265,7 +205,7 @@
 
 															<div class="text-left  ">
 																<a
-																	href="../products/industrial_hoses/industrial_hoses.php"
+																	href="<?php echo $this->createUrl('products/industrial')?>"
 																	title="INDUSTRIAL HOSES"> <img class=""
 																	oncontextmenu="return false;" draggable="false"
 																	src="images/products/small_92650.jpg"
@@ -284,7 +224,7 @@
 
 															<h6 class="text-left  alt   ">
 																<a
-																	href="../products/industrial_hoses/industrial_hoses.php"
+																	href="<?php echo $this->createUrl('products/industrial')?>"
 																	title="INDUSTRIAL HOSES">Industrial hoses</a>
 															</h6>
 
@@ -306,7 +246,7 @@
 															class='stacks_in com_joeworkman_stacks_foundation_button_stack'>
 
 															<a role="button"
-																href="../products/industrial_hoses/industrial_hoses.php"
+																href="<?php echo $this->createUrl('products/industrial')?>"
 																class=" button  ghost  tiny secondary  " target=""
 																rel="">ENTER</a>
 
@@ -318,107 +258,26 @@
 										</div>
 									</div>
 								</div>
-								<div class='columns small-12   medium-6   '>
-									<div id='stacks_out_92659_page2' class='stacks_out'>
-										<div id='stacks_in_92659_page2'
-											class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
+			</div>
 
-											<div class='row     '>
-												<div class='columns small-6   medium-6   '>
-													<div id='stacks_out_92660_page2' class='stacks_out'>
-														<div id='stacks_in_92660_page2'
-															class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+		</div>
+	</div>
+</div>
 
-															<div class="text-left  ">
-																<a href="../products/machines/machines.php"
-																	title="MACHINES"> <img class=""
-																	oncontextmenu="return false;" draggable="false"
-																	src="images/products/small_92660.jpg"
-																	data-interchange='[images/products/small_92660.jpg,(default)]'
-																	alt="hose processing machines" />
-																</a>
-															</div>
+<div class="match-height" id="stacks_in_92646_page2">
+	<div id='stacks_out_92647_page2' class='stacks_out'>
+		<div id='stacks_in_92647_page2'
+			class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
 
-														</div>
-													</div>
-												</div>
-												<div class='columns small-6   medium-6   '>
-													<div id='stacks_out_92662_page2' class='stacks_out'>
-														<div id='stacks_in_92662_page2'
-															class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+			<div class='row   max-custom  '>
+				<div class='columns small-12   medium-12    large-8   '>
+					<div id='stacks_out_92648_page2' class='stacks_out'>
+						<div id='stacks_in_92648_page2'
+							class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
 
-															<h6 class="text-left  alt   ">
-																<a href="../products/machines/machines.php"
-																	title="MACHINES">Equipments</a>
-															</h6>
-
-														</div>
-													</div>
-													<div id='stacks_out_92664_page2'
-														class='stacks_out stacks_s_hidden'>
-														<div id='stacks_in_92664_page2'
-															class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-															<p class="text-left alt   " draggable="false">
-																- crimping<br />- cutting<br />- skive
-															</p>
-
-														</div>
-													</div>
-													<div id='stacks_out_92666_page2' class='stacks_out'>
-														<div id='stacks_in_92666_page2'
-															class='stacks_in com_joeworkman_stacks_foundation_button_stack'>
-
-															<a role="button" href="../products/machines/machines.php"
-																class=" button  ghost  tiny secondary  " target=""
-																rel="">ENTER</a>
-
-														</div>
-													</div>
-												</div>
-											</div>
-
-										</div>
-									</div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-				<div class='columns small-12   medium-12    large-4   '>
-					<div id='stacks_out_92670_page2'
-						class='stacks_out stacks_m_hidden stacks_s_hidden'>
-						<div id='stacks_in_92670_page2'
-							class='stacks_in com_joeworkman_stacks_foundation_1col_s3_stack'>
-
-							<div class='row        '>
-								<div class='columns small-12   '>
-									<div id='stacks_out_92671_page2' class='stacks_out'>
-										<div id='stacks_in_92671_page2'
-											class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-											<h6 class="text-left subheader alt   ">CR-100HD Video
-												tutorial</h6>
-
-										</div>
-									</div>
-									<div id='stacks_out_92673_page2' class='stacks_out'>
-										<div id='stacks_in_92673_page2'
-											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-											<div class="text-center  ">
-												<a href="https://youtu.be/BaLVxiqt3D8" rel="external"> <img
-													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_92673.jpg"
-													data-interchange='[images/products/small_92673.jpg,(default)]'
-													alt="Crimping machine tutorial" />
-												</a>
-											</div>
-
-										</div>
-									</div>
-								</div>
+							<div class='row     '>
+								
+								
 							</div>
 
 						</div>
