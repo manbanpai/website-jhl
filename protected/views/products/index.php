@@ -27,7 +27,7 @@
 						class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 						<div class="text-center  ">
-							<a href="../products/CR100HD/" rel="external" title="CR100HD"> <img
+							<a href="" rel="external" title="CR100HD"> <img
 								class="" oncontextmenu="return false;" draggable="false"
 								src="images/products/small_92566.jpg"
 								data-interchange='[images/products/small_92566.jpg,(default)]'
@@ -321,7 +321,7 @@
 						class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 						<div class="text-center  ">
-							<a href="../products/thermoplastic/hoses.php"
+							<a href="<?php echo $this->createUrl('products/thermoplastic')?>"
 								title="THERMOPLASTIC"> <img class=""
 								oncontextmenu="return false;" draggable="false"
 								src="images/products/small_92561.jpg"
@@ -339,7 +339,7 @@
 						class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 						<div class="text-center  ">
-							<a href="../products/smooth/" title="SUPERBRAID SMOOTH"> <img
+							<a href="<?php echo $this->createUrl('products/smooth')?>" title="SUPERBRAID SMOOTH"> <img
 								class="" oncontextmenu="return false;" draggable="false"
 								src="images/products/small_92562.jpg"
 								data-interchange='[images/products/small_92562.jpg,(default)]'
@@ -356,7 +356,7 @@
 						class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 						<div class="text-center  ">
-							<a href="../products/Superbraid/" title="SUPERBRAID EUR1"> <img
+							<a href="<?php echo $this->createUrl('products/superbraid')?>" title="SUPERBRAID EUR1"> <img
 								class="" oncontextmenu="return false;" draggable="false"
 								src="images/products/small_92563.jpg"
 								data-interchange='[images/products/small_92563.jpg,(default)]'
