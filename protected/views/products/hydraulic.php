@@ -99,9 +99,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/cht1.pdf" rel="external"> <img
+												<a href="images/resources/cht1.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_78659.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_78659.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -188,9 +188,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/cht2.pdf" rel="external"> <img
+												<a href="images/resources/cht2.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_78701.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_78701.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -286,9 +286,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/bpr5.pdf" rel="external"> <img
+												<a href="images/resources/bpr5.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_78845.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_78845.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -386,9 +386,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/mst21.pdf" rel="external"> <img
+												<a href="images/resources/mst21.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79106.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79106.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -481,9 +481,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/bpr6.pdf" rel="external"> <img
+												<a href="images/resources/bpr6.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79199.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79199.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -569,9 +569,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/bpr4.pdf" rel="external"> <img
+												<a href="images/resources/bpr4.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79292.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79292.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -665,9 +665,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/wxs4.pdf" rel="external"> <img
+												<a href="images/resources/wxs4.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79562.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79562.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -752,9 +752,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/txs4.pdf" rel="external"> <img
+												<a href="images/resources/txs4.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79604.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79604.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -839,9 +839,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/zxs4.pdf" rel="external"> <img
+												<a href="images/resources/zxs4.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79646.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79646.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -929,9 +929,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/rxs6.pdf" rel="external"> <img
+												<a href="images/resources/rxs6.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79688.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79688.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -1019,14 +1019,13 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/rks6.pdf" rel="external"> <img
+												<a href="images/resources/rks6.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79781.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79781.png,(default)]'
 													alt="pdf" />
 												</a>
 											</div>
-
 										</div>
 									</div>
 								</div>
@@ -1114,9 +1113,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/tpr7.pdf" rel="external"> <img
+												<a href="images/resources/R7.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79730.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79730.png,(default)]'
 													alt="pdf" />
 												</a>
@@ -1201,9 +1200,9 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/tpr8.pdf" rel="external"> <img
+												<a href="images/resources/R8.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79823.png"
+													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79823.png,(default)]'
 													alt="pdf" />
 												</a>
