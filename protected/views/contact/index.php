@@ -49,21 +49,7 @@
 										class='stacks_in com_joeworkman_stacks_foundation_2col_s3_stack'>
 
 										<div class='row     '>
-											<div class='columns small-12   medium-6    large-7   '>
-												<div id='stacks_out_4497_page6' class='stacks_out'>
-													<div id='stacks_in_4497_page6'
-														class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-														<div class="text-center  ">
-															<img class="" oncontextmenu="return false;"
-																draggable="false" src="images/contact/small_4497.png"
-																data-interchange='[images/contact/small_4497.png,(default)]'
-																alt="My Image" />
-														</div>
-
-													</div>
-												</div>
-											</div>
+									
 											<div class='columns small-12   medium-6    large-5   '>
 												<div id='stacks_out_4498_page6' class='stacks_out'>
 													<div id='stacks_in_4498_page6'
