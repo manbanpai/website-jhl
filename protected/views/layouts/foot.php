@@ -22,8 +22,11 @@
 													style="height: 129px;">
 
 													<p class="text-left alt " draggable="false">
-														<strong><em>HRW S.r.l.</em></strong><br>Via Marsala
-																				40/C 21013 Gallarate (VA) - Italy VAT:<?php echo Yii::app()->params['fax']?><br>RAE: <?php echo Yii::app()->params['rae']?><br>
+														QINGDAO HANKS RUBBER HOSE CO.,LTD<br>
+														ADD: 2-2-502 NO.95 Shaoxing Road, Shibei district, Qingdao City, Shandong Provice<br>
+														Mob:+86-17753210701<br>
+														Email: info@hanks-hoses.com <br>
+														Email: sales@hanks-hoses.com<br>						
 													</p>
 
 												</div>
