@@ -57,10 +57,9 @@
 													<p class="text-left alt " draggable="false">
 														<strong><em>Contact us</em></strong><br>On-line: <a
 															href="<?php echo $this->createUrl('contact/index')?>"
-															title="contact us">contact page</a><br>Email: <a
-															href="mailto:<?php echo Yii::app()->params['email']?>"><?php echo Yii::app()->params['email']?></a><br>Fax:
-																				<?php echo Yii::app()->params['fax']?><br> <a
-															href="http://www.hrw.srl/" rel="external" target="_blank">HRW
+															title="contact us">contact page</a><br>
+															Email: <a href="mailto:<?php echo Yii::app()->params['email']?>"><?php echo Yii::app()->params['email']?></a><br>
+															<a href="http://www..srl/" rel="external" target="_blank">
 															sito Italiano</a><br>
 													</p>
 
