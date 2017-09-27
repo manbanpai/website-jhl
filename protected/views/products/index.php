@@ -73,8 +73,8 @@
 																		href="<?php echo $this->createUrl('products/hydraulic')?>"
 																		title="HYDRAULIC HOSES"> <img class=""
 																		oncontextmenu="return false;" draggable="false"
-																		src="images/products/small_92619.jpg"
-																		data-interchange='[images/products/small_92619.jpg,(default)]'
+																		src="images/small_92413.jpg"
+																		data-interchange='[images/small_92413.jpg,(default)]'
 																		alt="hydraulic hoses" />
 																	</a>
 																</div>
@@ -141,8 +141,8 @@
 																		href="<?php echo $this->createUrl('products/machines')?>"
 																		title="MACHINES"> <img class=""
 																		oncontextmenu="return false;" draggable="false"
-																		src="images/products/small_92660.jpg"
-																		data-interchange='[images/products/small_92660.jpg,(default)]'
+																		src="images/small_92444.jpg"
+																		data-interchange='[images/small_92444.jpg,(default)]'
 																		alt="hose processing machines" />
 																	</a>
 																</div>
@@ -214,8 +214,8 @@
 													href="<?php echo $this->createUrl('products/industrial')?>"
 													title="INDUSTRIAL HOSES"> <img class=""
 													oncontextmenu="return false;" draggable="false"
-													src="images/products/small_92650.jpg"
-													data-interchange='[images/products/small_92650.jpg,(default)]'
+													src="images/small_92423.jpg"
+													data-interchange='[images/small_92423.jpg,(default)]'
 													alt="industrial hoses" />
 												</a>
 											</div>
@@ -315,7 +315,7 @@
 		class='stacks_in com_joeworkman_stacks_foundation_3col_s3_stack'>
 
 		<div class='row   max-custom  '>
-			<div class='columns small-12   medium-4   '>
+			<div class='columns small-12   medium-6   '>
 				<div id='stacks_out_92561_page2' class='stacks_out'>
 					<div id='stacks_in_92561_page2'
 						class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
@@ -333,24 +333,7 @@
 					</div>
 				</div>
 			</div>
-			<div class='columns small-12   medium-4   '>
-				<div id='stacks_out_92562_page2' class='stacks_out'>
-					<div id='stacks_in_92562_page2'
-						class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-						<div class="text-center  ">
-							<a href="<?php echo $this->createUrl('products/smooth')?>" title="SUPERBRAID SMOOTH"> <img
-								class="" oncontextmenu="return false;" draggable="false"
-								src="images/products/small_92562.jpg"
-								data-interchange='[images/products/small_92562.jpg,(default)]'
-								alt="Smooth cover hoses" />
-							</a>
-						</div>
-
-					</div>
-				</div>
-			</div>
-			<div class='columns small-12   medium-4   '>
+			<div class='columns small-12   medium-6   '>
 				<div id='stacks_out_92563_page2' class='stacks_out'>
 					<div id='stacks_in_92563_page2'
 						class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
@@ -367,6 +350,20 @@
 					</div>
 				</div>
 			</div>
+			<div class='columns small-12   medium-4   '>
+				<div id='stacks_out_92562_page2' class='stacks_out'>
+					<div id='stacks_in_92562_page2'
+						class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+						<div class="text-center  ">
+							<a href="<?php echo $this->createUrl('products/smooth')?>" title="SUPERBRAID SMOOTH"> 
+							</a>
+						</div>
+
+					</div>
+				</div>
+			</div>
+			
 		</div>
 
 	</div>

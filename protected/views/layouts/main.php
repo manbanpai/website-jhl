@@ -6,7 +6,7 @@
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, user-scalable=yes">
 
-<title>HRW hydraulic hoses Italy</title>
+<title>HANKS hydraulic hoses Italy</title>
 <link rel="stylesheet" href="/css/css.css" media="all">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description"
@@ -68,7 +68,7 @@
 						<img class="" oncontextmenu="return false;" draggable="false"
 							src="images/small_92368.jpg"
 							data-interchange="[images/small_92368.jpg,(default)]"
-							alt="HRW S.r.l." data-uuid="interchange-j6oge7162">
+							alt="HANKS S.r.l." data-uuid="interchange-j6oge7162">
 					</div>
 				</div>
 			</div>
