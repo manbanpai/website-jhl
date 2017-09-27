@@ -23,8 +23,7 @@
 									<div id='stacks_in_3770_page1'
 										class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
 
-										<p class="text-left    " draggable="false">HRW is an Italian
-											high powered and fast growing firm, offering a full and
+										<p class="text-left    " draggable="false">HANKS is an new high powered and fast growing firm, offering a full and
 											advanced range of high pressure hydraulic hoses, industrial
 											hoses and hose processing equipments that founds its strategy
 											on the excellence of its products and services. A firm
@@ -45,7 +44,7 @@
 									<div id='stacks_in_3772_page1'
 										class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
 
-										<p class="text-left    " draggable="false">HRW policy is based
+										<p class="text-left    " draggable="false">HANKS policy is based
 											on giving its hydraulic hoses production capacity an
 											international plan, on expanding its sales network, on
 											overseeing technological know how, on developing new
@@ -68,13 +67,7 @@
 									<div id='stacks_in_3774_page1'
 										class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
 
-										<p class="text-left    " draggable="false">HRW&rsquo;s mission
-											is to create a valuable production solution for its partners
-											but above all to draw the best know how. Our activities are
-											structured and continuously harmonized. Our excellent
-											performances are lead by our strategic orientation and a deep
-											awareness of the high pressure hoses market in which we
-											operate.</p>
+										<p class="text-left" draggable="false">HANKS 's mission is to provide the best level quality to its  partners but above all is to draw the best know how.Our activities are structured and continuously harmonized. Our excellent performances are lead by our strategic orientation and a deep awareness of the high pressure hoses market in which we operate, and the other side is the most important is we and our partner we are in  the same side, we stand into our partner's shoes, thinking what they thinking, doing what they want to do.</p>
 
 									</div>
 								</div>
@@ -82,7 +75,7 @@
 									<div id='stacks_in_3776_page1'
 										class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
 
-										<p class="text-left    " draggable="false">HRW is inspired by
+										<p class="text-left    " draggable="false">HANKS is inspired by
 											principles of correctness, transparency and integrity and
 											adopts the highest standards in the management of its
 											activities. Reliability and reputation are curtail factors
@@ -165,7 +158,7 @@
 												<img class="" oncontextmenu="return false;"
 													draggable="false" src="images/hrw/small_10047.jpg"
 													data-interchange='[images/hrw/small_10047.jpg,(default)]'
-													alt="HRW authorized distributor" />
+													alt="HANKS authorized distributor" />
 											</div>
 
 										</div>
@@ -175,7 +168,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
 
 											<p class="text-left    " draggable="false">
-												HRW offer an hydraulic hose assemblies service through a
+												HANKS offer an hydraulic hose assemblies service through a
 												worldwide network of professional and specialized partners.<br />
 											</p>
 
@@ -191,7 +184,7 @@
 												<img class="" oncontextmenu="return false;"
 													draggable="false" src="images/hrw/small_10048.jpg"
 													data-interchange='[images/hrw/small_10048.jpg,(default)]'
-													alt="HRW hydraulic hoses" />
+													alt="HANKS hydraulic hoses" />
 											</div>
 
 										</div>
@@ -201,7 +194,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
 
 											<p class="text-left    " draggable="false">
-												HRW high pressure hydraulic hoses meet or exceed the
+												HANKS high pressure hydraulic hoses meet or exceed the
 												international standards DIN/EN, SAE, ISO.<br />
 											</p>
 
@@ -228,8 +221,7 @@
 
 											<p class="text-left    " draggable="false">
 												Raw material selection<br />Regular test of production<br />Impulse
-												tests<br />Burst tests<br />Abrasion tests<br />Environment
-												simulation<br />
+												tests<br />Burst tests<br />Abrasion tests<br />
 											</p>
 
 										</div>

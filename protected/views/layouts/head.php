@@ -38,11 +38,7 @@
 												class="stacks_in com_joeworkman_stacks_foundation_image_stack">
 
 												<div class="text-right small-only-text-center ">
-													<img class="" oncontextmenu="return false;"
-														draggable="false"
-														src="images/small_p3701_n4339.png"
-														data-interchange="[images/small_p3701_n4339.png,(default)]"
-														alt="Italy" data-uuid="interchange-j6oge7160">
+													<br>
 												</div>
 
 											</div>
@@ -52,7 +48,7 @@
 												class="stacks_in com_joeworkman_stacks_foundation_image_stack">
 
 												<div class="text-right small-only-text-center ">
-													<a href="http://www.hrw.srl/"> <img class=""
+													<a href="http://www.hanks-hoses.com/"> <img class=""
 														oncontextmenu="return false;" draggable="false"
 														src="images/small_p3701_n4340.png"
 														data-interchange="[images/small_p3701_n4340.png,(default)]"
