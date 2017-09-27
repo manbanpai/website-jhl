@@ -88,38 +88,6 @@
 
 													</div>
 												</div>
-												<div id='stacks_out_4514_page6' class='stacks_out'>
-													<div id='stacks_in_4514_page6'
-														class='stacks_in com_joeworkman_stacks_foundation_divider_s3_stack'>
-
-														<hr class="" />
-
-													</div>
-												</div>
-												<div id='stacks_out_4511_page6' class='stacks_out'>
-													<div id='stacks_in_4511_page6'
-														class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-														<div class="text-left  ">
-															Inlink
-														</div>
-
-													</div>
-												</div>
-												<div id='stacks_out_4512_page6' class='stacks_out'>
-													<div id='stacks_in_4512_page6'
-														class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-														<p class="text-left  small-only-text-center  "
-															draggable="false">
-															Skype: export@hanks-hoses.com<br> china@hanks-hoses.com<br>
-															hanks@hanks-hoses.com<br> qh@hanks-hoses.com<br>
-															Sales2@hanks-hoses.com<br>
-
-														</p>
-
-													</div>
-												</div>
 											</div>
 										</div>
 
