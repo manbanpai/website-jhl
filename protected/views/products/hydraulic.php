@@ -227,8 +227,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_78834.png"
-													data-interchange='[images/products/small_78834.png,(default)]'
+													draggable="false" src="images/products/R5.png"
+													data-interchange='[images/products/R5.png,(default)]'
 													alt="bpr5" />
 											</div>
 
@@ -286,7 +286,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="images/resources/bpr5.pdf" rel="external"> <img
+												<a href="images/resources/R5.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
 													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_78845.png,(default)]'
@@ -425,8 +425,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79188.png"
-													data-interchange='[images/products/small_79188.png,(default)]'
+													draggable="false" src="images/products/R6.png"
+													data-interchange='[images/products/R6.png,(default)]'
 													alt="r6" />
 											</div>
 
@@ -481,7 +481,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="images/resources/bpr6.pdf" rel="external"> <img
+												<a href="images/resources/R6.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
 													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79199.png,(default)]'
@@ -512,8 +512,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79281.png"
-													data-interchange='[images/products/small_79281.png,(default)]'
+													draggable="false" src="images/products/R4.png"
+													data-interchange='[images/products/R4.png,(default)]'
 													alt="r4" />
 											</div>
 
@@ -569,7 +569,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="images/resources/bpr4.pdf" rel="external"> <img
+												<a href="images/resources/R4.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
 													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79292.png,(default)]'
@@ -609,8 +609,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79551.png"
-													data-interchange='[images/products/small_79551.png,(default)]'
+													draggable="false" src="images/products/R9.png"
+													data-interchange='[images/products/R9.png,(default)]'
 													alt="WXS4HP" />
 											</div>
 
@@ -665,7 +665,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="images/resources/wxs4.pdf" rel="external"> <img
+												<a href="images/resources/4SP.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
 													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79562.png,(default)]'
@@ -783,8 +783,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79635.png"
-													data-interchange='[images/products/small_79635.png,(default)]'
+													draggable="false" src="images/products/R13.png"
+													data-interchange='[images/products/R13.png,(default)]'
 													alt="WXS4HP" />
 											</div>
 
@@ -839,7 +839,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="images/resources/zxs4.pdf" rel="external"> <img
+												<a href="images/resources/R13.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
 													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79646.png,(default)]'
@@ -960,8 +960,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79770.png"
-													data-interchange='[images/products/small_79770.png,(default)]'
+													draggable="false" src="images/products/R15.png"
+													data-interchange='[images/products/R15.png,(default)]'
 													alt="rks6hp" />
 											</div>
 
@@ -1019,7 +1019,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="images/resources/rks6.pdf" rel="external"> <img
+												<a href="images/resources/R15.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
 													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79781.png,(default)]'
@@ -1057,8 +1057,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79719.png"
-													data-interchange='[images/products/small_79719.png,(default)]'
+													draggable="false" src="images/products/R7.png"
+													data-interchange='[images/products/R7.png,(default)]'
 													alt="tpr7" />
 											</div>
 
@@ -1144,8 +1144,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79812.png"
-													data-interchange='[images/products/small_79812.png,(default)]'
+													draggable="false" src="images/products/R8.png"
+													data-interchange='[images/products/R8.png,(default)]'
 													alt="tpr7" />
 											</div>
 
@@ -1216,6 +1216,184 @@
 
 					</div>
 				</div>
+				
+				
+				<div id='stacks_out_79810_page11' class='stacks_out'>
+					<div id='stacks_in_79810_page11'
+						class='stacks_in com_joeworkman_stacks_foundation_4col_s3_stack'>
+
+						<div class='row     divider' data-equalizer
+							data-equalizer-mq="small-up">
+							<div class='columns small-12   medium-3    large-3   '
+								data-equalizer-watch>
+								<div class="equalizer small-up">
+									<div id='stacks_out_79812_page11' class='stacks_out'>
+										<div id='stacks_in_79812_page11'
+											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+											<div class="text-center  ">
+												<img class="" oncontextmenu="return false;"
+													draggable="false" src="images/products/R1.png"
+													data-interchange='[images/products/R1.png,(default)]'
+													alt="tpr7" />
+											</div>
+
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class='columns small-12   medium-3    large-4   '
+								data-equalizer-watch>
+								<div class="equalizer small-up">
+									<div id='stacks_out_79814_page11' class='stacks_out'>
+										<div id='stacks_in_79814_page11'
+											class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+											<h3 class="text-left   small-only-text-center  ">R1</h3>
+
+										</div>
+									</div>
+									<div id='stacks_out_79817_page11' class='stacks_out'>
+										<div id='stacks_in_79817_page11'
+											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
+
+											<p class="text-left  small-only-text-center  "
+												draggable="false">SAE100 R1 / ISO 3949.2</p>
+
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class='columns small-12   medium-3    large-4   '
+								data-equalizer-watch>
+								<div class="equalizer small-up">
+									<div id='stacks_out_79820_page11' class='stacks_out'>
+										<div id='stacks_in_79820_page11'
+											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
+
+											<p class="text-left  small-only-text-center  "
+												draggable="false">
+												Thermoplastic polyester inner tube<br />Two layers of aramid
+												fibers braid<br />Pin pricked ant-abrasion polyurethane<br />
+											</p>
+
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class='columns small-12   medium-3    large-1   '
+								data-equalizer-watch>
+								<div class="equalizer small-up">
+									<div id='stacks_out_79823_page11' class='stacks_out'>
+										<div id='stacks_in_79823_page11'
+											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+											<div class="text-center small-only-text-center ">
+												<a href="images/resources/R1.pdf" rel="external"> <img
+													class="" oncontextmenu="return false;" draggable="false"
+													src="images/products/small_80003.png"
+													data-interchange='[images/products/small_79823.png,(default)]'
+													alt="pdf" />
+												</a>
+											</div>
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				
+				<div id='stacks_out_79810_page11' class='stacks_out'>
+					<div id='stacks_in_79810_page11'
+						class='stacks_in com_joeworkman_stacks_foundation_4col_s3_stack'>
+
+						<div class='row     divider' data-equalizer
+							data-equalizer-mq="small-up">
+							<div class='columns small-12   medium-3    large-3   '
+								data-equalizer-watch>
+								<div class="equalizer small-up">
+									<div id='stacks_out_79812_page11' class='stacks_out'>
+										<div id='stacks_in_79812_page11'
+											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+											<div class="text-center  ">
+												<img class="" oncontextmenu="return false;"
+													draggable="false" src="images/products/R2.png"
+													data-interchange='[images/products/R2.png,(default)]'
+													alt="tpr7" />
+											</div>
+
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class='columns small-12   medium-3    large-4   '
+								data-equalizer-watch>
+								<div class="equalizer small-up">
+									<div id='stacks_out_79814_page11' class='stacks_out'>
+										<div id='stacks_in_79814_page11'
+											class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+											<h3 class="text-left   small-only-text-center  ">R2</h3>
+
+										</div>
+									</div>
+									<div id='stacks_out_79817_page11' class='stacks_out'>
+										<div id='stacks_in_79817_page11'
+											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
+
+											<p class="text-left  small-only-text-center  "
+												draggable="false">SAE100 R2 / ISO 3949.2</p>
+
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class='columns small-12   medium-3    large-4   '
+								data-equalizer-watch>
+								<div class="equalizer small-up">
+									<div id='stacks_out_79820_page11' class='stacks_out'>
+										<div id='stacks_in_79820_page11'
+											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
+
+											<p class="text-left  small-only-text-center  "
+												draggable="false">
+												Thermoplastic polyester inner tube<br />Two layers of aramid
+												fibers braid<br />Pin pricked ant-abrasion polyurethane<br />
+											</p>
+
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class='columns small-12   medium-3    large-1   '
+								data-equalizer-watch>
+								<div class="equalizer small-up">
+									<div id='stacks_out_79823_page11' class='stacks_out'>
+										<div id='stacks_in_79823_page11'
+											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+											<div class="text-center small-only-text-center ">
+												<a href="images/resources/R2.pdf" rel="external"> <img
+													class="" oncontextmenu="return false;" draggable="false"
+													src="images/products/small_80003.png"
+													data-interchange='[images/products/small_79823.png,(default)]'
+													alt="pdf" />
+												</a>
+											</div>
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				
 
 			</div>
 		</div>
