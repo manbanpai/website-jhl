@@ -212,8 +212,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79854.png"
-													data-interchange='[images/products/small_79854.png,(default)]'
+													draggable="false" src="images/products/R7.png"
+													data-interchange='[images/products/R7.png,(default)]'
 													alt="tpr7nc" />
 											</div>
 
@@ -270,10 +270,10 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="images/resources/tpr7nc.pdf" rel="external"> <img
+												<a href="images/resources/R7.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79865.png"
-													data-interchange='[images/products/small_79865.png,(default)]'
+													src="images/products/small_80003.png"
+													data-interchange='[images/products/small_80003.png,(default)]'
 													alt="pdf" />
 												</a>
 											</div>
@@ -301,8 +301,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79896.png"
-													data-interchange='[images/products/small_79896.png,(default)]'
+													draggable="false" src="images/products/R8.png"
+													data-interchange='[images/products/R8.png,(default)]'
 													alt="tpr7nc" />
 											</div>
 
@@ -359,10 +359,10 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="images/resources/tpr8nc.pdf" rel="external"> <img
+												<a href="images/resources/R8.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79907.png"
-													data-interchange='[images/products/small_79907.png,(default)]'
+													src="images/products/small_80003.png"
+													data-interchange='[images/products/small_80003.png,(default)]'
 													alt="pdf" />
 												</a>
 											</div>

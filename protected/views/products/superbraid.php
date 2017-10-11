@@ -210,10 +210,10 @@
 														class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 														<div class="text-center  ">
-															<a href="../../resources/cxt1.pdf" rel="external"> <img
+															<a href="images/resources/R1.pdf" rel="external"> <img
 																class="" oncontextmenu="return false;" draggable="false"
-																src="images/products/small_90925.png"
-																data-interchange='[images/products/small_90925.png,(default)]'
+																src="images/products/R1.png"
+																data-interchange='[images/products/R1.png,(default)]'
 																alt="cxt1" />
 															</a>
 														</div>
@@ -247,7 +247,7 @@
 														class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 														<div class="text-center  ">
-															<a href="../../resources/cxt1.pdf" rel="external"> <img
+															<a href="images/resources/R1.pdf" rel="external"> <img
 																class="" oncontextmenu="return false;" draggable="false"
 																src="images/products/small_90918.png"
 																data-interchange='[images/products/small_90918.png,(default)]'
@@ -291,9 +291,9 @@
 														class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 														<div class="text-center  ">
-															<a href="../../resources/cxt2.pdf" rel="external"> <img
+															<a href="images/resources/R2.pdf" rel="external"> <img
 																class="" oncontextmenu="return false;" draggable="false"
-																src="images/products/small_90950.png"
+																src="images/products/R2.png"
 																data-interchange='[images/products/small_90950.png,(default)]'
 																alt="cxt2" />
 															</a>
@@ -328,7 +328,7 @@
 														class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 														<div class="text-center  ">
-															<a href="../../resources/cxt2.pdf" rel="external"> <img
+															<a href="images/resources/R2.pdf" rel="external"> <img
 																class="" oncontextmenu="return false;" draggable="false"
 																src="images/products/small_90919.png"
 																data-interchange='[images/products/small_90919.png,(default)]'

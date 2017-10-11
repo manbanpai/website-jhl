@@ -317,8 +317,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79095.png"
-													data-interchange='[images/products/small_79095.png,(default)]'
+													draggable="false" src="images/products/R2.png"
+													data-interchange='[images/products/R2.png,(default)]'
 													alt="mst21" />
 											</div>
 
@@ -333,7 +333,7 @@
 										<div id='stacks_in_79097_page11'
 											class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-											<h3 class="text-left   small-only-text-center  ">MST21</h3>
+											<h3 class="text-left   small-only-text-center  ">SAE 100 R17</h3>
 
 										</div>
 									</div>
@@ -343,7 +343,7 @@
 
 											<p class="text-left  small-only-text-center  "
 												draggable="false">
-												SAE100 R17<br />Isobaric 210 Bar - Smooth cover
+												SAE100 R17<br />Isobaric 210 Bar - wrapped cover
 											</p>
 
 										</div>
@@ -360,8 +360,8 @@
 											<p class="text-left  small-only-text-center  "
 												draggable="false">
 												Synthetic rubber inner tube<br />One or two high tensile
-												steel wire braid reinforcement<br />Synthetic rubber smooth
-												cover<br />
+												steel wire braid reinforcement<br />Synthetic rubber wrapped cover
+<br />
 											</p>
 
 										</div>
@@ -376,7 +376,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="images/resources/mst21.pdf" rel="external"> <img
+												<a href="images/resources/R2.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
 													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79106.png,(default)]'
@@ -686,8 +686,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79593.png"
-													data-interchange='[images/products/small_79593.png,(default)]'
+													draggable="false" src="images/products/R9.png"
+													data-interchange='[images/products/R9.png,(default)]'
 													alt="WXS4HP" />
 											</div>
 
@@ -742,7 +742,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="images/resources/txs4.pdf" rel="external"> <img
+												<a href="images/resources/R9.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
 													src="images/products/small_80003.png"
 													data-interchange='[images/products/small_79604.png,(default)]'
