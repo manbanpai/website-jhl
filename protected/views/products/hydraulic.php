@@ -702,7 +702,7 @@
 										<div id='stacks_in_79595_page11'
 											class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-											<h3 class="text-left   small-only-text-center  ">TXS4</h3>
+											<h3 class="text-left   small-only-text-center  ">4SH</h3>
 
 										</div>
 									</div>
