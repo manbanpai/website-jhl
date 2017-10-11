@@ -38,8 +38,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79995.png"
-													data-interchange='[images/products/small_79995.png,(default)]'
+													draggable="false" src="images/products/R7.png"
+													data-interchange='[images/products/R7.png,(default)]'
 													alt="tpr7" />
 											</div>
 
@@ -94,10 +94,10 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/tpr7.pdf" rel="external"> <img
+												<a href="images/resources/R7.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_80005.png"
-													data-interchange='[images/products/small_80005.png,(default)]'
+													src="images/products/small_80003.png"
+													data-interchange='[images/products/small_80003.png,(default)]'
 													alt="pdf" />
 												</a>
 											</div>
@@ -125,8 +125,8 @@
 
 											<div class="text-center  ">
 												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79812.png"
-													data-interchange='[images/products/small_79812.png,(default)]'
+													draggable="false" src="images/products/R8.png"
+													data-interchange='[images/products/R8.png,(default)]'
 													alt="tpr7" />
 											</div>
 
@@ -181,10 +181,10 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/tpr8.pdf" rel="external"> <img
+												<a href="images/resources/R8.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79823.png"
-													data-interchange='[images/products/small_79823.png,(default)]'
+													src="images/products/small_80003.png"
+													data-interchange='[images/products/small_80003.png,(default)]'
 													alt="pdf" />
 												</a>
 											</div>
@@ -270,7 +270,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/tpr7nc.pdf" rel="external"> <img
+												<a href="images/resources/tpr7nc.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
 													src="images/products/small_79865.png"
 													data-interchange='[images/products/small_79865.png,(default)]'
@@ -359,7 +359,7 @@
 											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 											<div class="text-center small-only-text-center ">
-												<a href="../../resources/tpr8nc.pdf" rel="external"> <img
+												<a href="images/resources/tpr8nc.pdf" rel="external"> <img
 													class="" oncontextmenu="return false;" draggable="false"
 													src="images/products/small_79907.png"
 													data-interchange='[images/products/small_79907.png,(default)]'
@@ -375,277 +375,7 @@
 
 					</div>
 				</div>
-				<div id='stacks_out_79936_page8' class='stacks_out'>
-					<div id='stacks_in_79936_page8'
-						class='stacks_in com_joeworkman_stacks_foundation_4col_s3_stack'>
-
-						<div class='row     divider' data-equalizer
-							data-equalizer-mq="small-up">
-							<div class='columns small-12   medium-3    large-3   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79938_page8' class='stacks_out'>
-										<div id='stacks_in_79938_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-											<div class="text-center  ">
-												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79938.png"
-													data-interchange='[images/products/small_79938.png,(default)]'
-													alt="tpr18" />
-											</div>
-
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-3    large-4   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79940_page8' class='stacks_out'>
-										<div id='stacks_in_79940_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-											<h3 class="text-left   small-only-text-center  ">TPR18</h3>
-
-										</div>
-									</div>
-									<div id='stacks_out_79943_page8' class='stacks_out'>
-										<div id='stacks_in_79943_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-											<p class="text-left  small-only-text-center  "
-												draggable="false">SAE100 R18</p>
-
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-3    large-4   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79946_page8' class='stacks_out'>
-										<div id='stacks_in_79946_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-											<p class="text-left  small-only-text-center  "
-												draggable="false">
-												Thermoplastic polyester inner tube<br />Two layers of aramid
-												fibers braid<br />Pin pricked ant-abrasion polyurethane<br />
-											</p>
-
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-3    large-1   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79949_page8' class='stacks_out'>
-										<div id='stacks_in_79949_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-											<div class="text-center small-only-text-center ">
-												<a href="../../resources/tpr18.pdf" rel="external"> <img
-													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79949.png"
-													data-interchange='[images/products/small_79949.png,(default)]'
-													alt="pdf" />
-												</a>
-											</div>
-
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
-				<div id='stacks_out_79978_page8' class='stacks_out'>
-					<div id='stacks_in_79978_page8'
-						class='stacks_in com_joeworkman_stacks_foundation_4col_s3_stack'>
-
-						<div class='row     divider' data-equalizer
-							data-equalizer-mq="small-up">
-							<div class='columns small-12   medium-3    large-3   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79980_page8' class='stacks_out'>
-										<div id='stacks_in_79980_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-											<div class="text-center  ">
-												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79980.png"
-													data-interchange='[images/products/small_79980.png,(default)]'
-													alt="tpr18" />
-											</div>
-
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-3    large-4   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79982_page8' class='stacks_out'>
-										<div id='stacks_in_79982_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-											<h3 class="text-left   small-only-text-center  ">TPH10K</h3>
-
-										</div>
-									</div>
-									<div id='stacks_out_79985_page8' class='stacks_out'>
-										<div id='stacks_in_79985_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-											<p class="text-left  small-only-text-center  "
-												draggable="false">HRW DESIGN 700 BAR</p>
-
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-3    large-4   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79988_page8' class='stacks_out'>
-										<div id='stacks_in_79988_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-											<p class="text-left  small-only-text-center  "
-												draggable="false">
-												Thermoplastic polyester inner tube<br />One layer of aramid
-												fibers braid and one layer of steel braid<br />Pin pricked
-												ant-abrasion polyurethane<br />
-											</p>
-
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-3    large-1   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79991_page8' class='stacks_out'>
-										<div id='stacks_in_79991_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-											<div class="text-center small-only-text-center ">
-												<a href="../../resources/tph10k.pdf" rel="external"> <img
-													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79991.png"
-													data-interchange='[images/products/small_79991.png,(default)]'
-													alt="pdf" />
-												</a>
-											</div>
-
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
-				<div id='stacks_out_79518_page8' class='stacks_out'>
-					<div id='stacks_in_79518_page8'
-						class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-						<h3 class="text-right     ">FOOD GRADE</h3>
-
-					</div>
-				</div>
-				<div id='stacks_out_79717_page8' class='stacks_out'>
-					<div id='stacks_in_79717_page8'
-						class='stacks_in com_joeworkman_stacks_foundation_4col_s3_stack'>
-
-						<div class='row     divider' data-equalizer
-							data-equalizer-mq="small-up">
-							<div class='columns small-12   medium-3    large-3   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79719_page8' class='stacks_out'>
-										<div id='stacks_in_79719_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-											<div class="text-center  ">
-												<img class="" oncontextmenu="return false;"
-													draggable="false" src="images/products/small_79719.png"
-													data-interchange='[images/products/small_79719.png,(default)]'
-													alt="tpr7" />
-											</div>
-
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-3    large-4   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79721_page8' class='stacks_out'>
-										<div id='stacks_in_79721_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-											<h3 class="text-left   small-only-text-center  ">TPRF</h3>
-
-										</div>
-									</div>
-									<div id='stacks_out_79724_page8' class='stacks_out'>
-										<div id='stacks_in_79724_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-											<p class="text-left  small-only-text-center  "
-												draggable="false">HRW DESIGN FOOD GRADE</p>
-
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-3    large-4   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79727_page8' class='stacks_out'>
-										<div id='stacks_in_79727_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_paragraph_s3_stack'>
-
-											<p class="text-left  small-only-text-center  "
-												draggable="false">
-												Thermoplastic polyester food grade inner tube<br />One layer
-												of braided steel wire<br />Pin pricked ant-abrasion
-												polyurethane<br />
-											</p>
-
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-3    large-1   '
-								data-equalizer-watch>
-								<div class="equalizer small-up">
-									<div id='stacks_out_79730_page8' class='stacks_out'>
-										<div id='stacks_in_79730_page8'
-											class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-											<div class="text-center small-only-text-center ">
-												<a href="../../resources/tprf.pdf" rel="external"> <img
-													class="" oncontextmenu="return false;" draggable="false"
-													src="images/products/small_79730.png"
-													data-interchange='[images/products/small_79730.png,(default)]'
-													alt="pdf" />
-												</a>
-											</div>
-
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
+				
 			</div>
 		</div>
 

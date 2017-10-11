@@ -39,13 +39,13 @@
 											href="<?php echo $this->createUrl('products/superbraid');?>" rel="">SUPERBRAID
 												EUR1</a></li>
 										<li class="not-click" role="menuitem"><a
-											href="<?php echo $this->createUrl('products/smooth');?>" rel="">SUPERBRAID
+											href="#" rel="">SUPERBRAID
 												SMOOTH</a></li>
 										<li class="not-click" role="menuitem"><a
 											href="<?php echo $this->createUrl('products/thermoplastic');?>"
 											rel="">THERMOPLASTIC</a></li>
 										<li class="not-click" role="menuitem"><a
-											href="<?php echo $this->createUrl('products/hydrojet');?>"
+											href="#"
 											rel="">PRESSURE WASHER</a></li>
 										<li class="not-click" role="menuitem"><a
 											href="<?php echo $this->createUrl('products/industrial');?>"

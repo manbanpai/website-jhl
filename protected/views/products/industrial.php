@@ -79,50 +79,7 @@
 
 					</div>
 				</div>
-				<div id='stacks_out_59387_page22' class='stacks_out'>
-					<div id='stacks_in_59387_page22'
-						class='stacks_in com_joeworkman_stacks_foundation_1col_s3_stack'>
 
-						<div class='row        '>
-							<div class='columns small-12   '>
-								<div id='stacks_out_59393_page22' class='stacks_out'>
-									<div id='stacks_in_59393_page22'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h3 class="text-center     ">Download the catalogue</h3>
-
-									</div>
-								</div>
-								<div id='stacks_out_59392_page22' class='stacks_out'>
-									<div id='stacks_in_59392_page22'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center  ">
-											<a href="../../literature/literature.php" rel="external"
-												title="literature"> <img class=""
-												oncontextmenu="return false;" draggable="false"
-												src="images/products/small_59392.png"
-												data-interchange='[images/products/small_59392.png,(default)]'
-												alt="industrial hoses catalogue" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
-				<div id='stacks_out_4856_page22'
-					class='stacks_out stacks_m_hidden stacks_s_hidden'>
-					<div id='stacks_in_4856_page22'
-						class='stacks_in com_joeworkman_stacks_foundation_divider_s3_stack'>
-
-						<hr class="" />
-
-					</div>
-				</div>
 				<div id='stacks_out_59367_page22' class='stacks_out'>
 					<div id='stacks_in_59367_page22'
 						class='stacks_in com_joeworkman_stacks_foundation_1col_s3_stack'>

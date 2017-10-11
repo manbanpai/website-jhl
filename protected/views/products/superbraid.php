@@ -177,40 +177,6 @@
 													</div>
 												</div>
 											</div>
-											<div class='columns small-12   medium-2    large-2   '
-												data-equalizer-watch>
-												<div class="equalizer large-up">
-													<div id='stacks_out_91028_page21'
-														class='stacks_out stacks_m_hidden stacks_s_hidden'>
-														<div id='stacks_in_91028_page21'
-															class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-															<div class="text-right  ">
-																<a href="../../resources/SUPERBRAID-EUR1.pdf"
-																	rel="external"> <img class=""
-																	oncontextmenu="return false;" draggable="false"
-																	src="images/products/small_91028.jpg"
-																	data-interchange='[images/products/small_91028.jpg,(default)]'
-																	alt="eur1" />
-																</a>
-															</div>
-
-														</div>
-													</div>
-													<div id='stacks_out_91023_page21'
-														class='stacks_out stacks_m_hidden stacks_s_hidden'>
-														<div id='stacks_in_91023_page21'
-															class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-															<h5 class="text-right     ">
-																<a href="../../resources/SUPERBRAID-EUR1.pdf"
-																	rel="external">Download</a>
-															</h5>
-
-														</div>
-													</div>
-												</div>
-											</div>
 										</div>
 
 									</div>
@@ -235,7 +201,7 @@
 													<div id='stacks_in_90922_page21'
 														class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-														<h3 class="text-left     ">CXT1</h3>
+														<h3 class="text-left     ">SAE 100R1AT</h3>
 
 													</div>
 												</div>
@@ -316,7 +282,7 @@
 													<div id='stacks_in_90971_page21'
 														class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-														<h3 class="text-left     ">CXT2</h3>
+														<h3 class="text-left     ">SAE 100R2AT</h3>
 
 													</div>
 												</div>
@@ -397,7 +363,7 @@
 													<div id='stacks_in_90993_page21'
 														class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-														<h3 class="text-left     ">AKT1</h3>
+														<h3 class="text-left     ">DIN EN 857 1SC</h3>
 
 													</div>
 												</div>
@@ -478,7 +444,7 @@
 													<div id='stacks_in_90947_page21'
 														class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-														<h3 class="text-left     ">AKT2</h3>
+														<h3 class="text-left     ">DIN EN 857 2SC</h3>
 
 													</div>
 												</div>
