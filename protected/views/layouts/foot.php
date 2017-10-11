@@ -59,8 +59,7 @@
 															href="<?php echo $this->createUrl('contact/index')?>"
 															title="contact us">contact page</a><br>
 															Email: <a href="mailto:<?php echo Yii::app()->params['email']?>"><?php echo Yii::app()->params['email']?></a><br>
-															<a href="http://www..srl/" rel="external" target="_blank">
-															sito Italiano</a><br>
+															<br>
 													</p>
 
 												</div>
