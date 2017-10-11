@@ -212,7 +212,7 @@
 															class='stacks_in com_joeworkman_stacks_foundation_button_stack'>
 
 															<a role="button"
-																href="../products/industrial_hoses/industrial_hoses.php"
+																href="<?php echo $this->createUrl('products/industrial')?>"
 																class=" button  ghost  tiny secondary  " target=""
 																rel="">ENTER</a>
 
