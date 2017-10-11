@@ -6,7 +6,7 @@
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, user-scalable=yes">
 
-<title>HANKS hydraulic hoses Italy</title>
+<title>HANKS hydraulic hoses</title>
 <link rel="stylesheet" href="/css/css.css" media="all">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description"
