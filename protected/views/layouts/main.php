@@ -77,10 +77,10 @@
 			<!-- Banner -->
 			<?php $this->renderPartial('//layouts/banner');?>
 			
-			<div style="background-image:url('/images/bg.jpg');background-attachment: fixed;background-repeat: no-repeat;
-background-size: cover;">
+			<!-- div style="background-image:url('/images/bg.jpg');background-attachment: fixed;background-repeat: no-repeat;
+background-size: cover;"-->
 			<?php echo $content;?>
-			</div>
+			<!-- /div-->
 			<!-- 底部 -->
 			<?php $this->renderPartial('//layouts/foot')?>
 			
