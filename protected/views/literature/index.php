@@ -168,8 +168,7 @@
 									<div id='stacks_in_5220_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-										<h3 class="text-left   small-only-text-center  ">INDUSTRIAL
-											HOSES</h3>
+										<h3 class="text-left   small-only-text-center  ">HYDRAULIC HOSE</h3>
 
 									</div>
 								</div>
