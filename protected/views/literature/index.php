@@ -52,7 +52,7 @@
 									<div id='stacks_in_11385_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-										<h6 class="text-center   small-only-text-center  ">Catalogue</h6>
+										<h6 class="text-center   small-only-text-center  "></h6>
 
 									</div>
 								</div>
@@ -77,7 +77,7 @@
 									<div id='stacks_in_11394_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-										<h6 class="text-center   small-only-text-center  ">Brochure</h6>
+										<h6 class="text-center   small-only-text-center  "></h6>
 
 									</div>
 								</div>
@@ -102,8 +102,7 @@
 									<div id='stacks_in_91020_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-										<h6 class="text-center   small-only-text-center  ">Superbraid
-											Eur1</h6>
+										<h6 class="text-center   small-only-text-center  "></h6>
 
 									</div>
 								</div>
@@ -130,8 +129,7 @@
 									<div id='stacks_in_91016_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-										<h6 class="text-center   small-only-text-center  ">Pressure
-											washer</h6>
+										<h6 class="text-center   small-only-text-center  "></h6>
 
 									</div>
 								</div>
