@@ -103,6 +103,3 @@
 
 	</div>
 </div>
-<div id='stacks_out_16471_page6' class='stacks_out stacks_s_hidden' style="text-align:center">
-	<img src="images/contact/20173313420.jpg" width="50%" >
-</div>

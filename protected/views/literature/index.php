@@ -182,17 +182,19 @@
 					<div id='stacks_in_64291_page3'
 						class='stacks_in com_joeworkman_stacks_foundation_6col_s3_stack'>
 
-						<div class='row     '>
+						<div class='row'>
+						
+							<!-- 1 -->
 							<div class='columns small-12   medium-2   '>
 								<div id='stacks_out_64293_page3' class='stacks_out'>
 									<div id='stacks_in_64293_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 										<div class="text-center small-only-text-center ">
-											<a href="../resources/Industrial-hoses.pdf" rel="external"> <img
+											<a target="_blank" href="images/literature/R1-R2.png" rel="external"> <img
 												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_64293.jpg"
-												data-interchange='[images/literature/small_64293.jpg,(default)]'
+												src="images/literature/R1-R2.png"
+												data-interchange='[images/literature/R1-R2.png,(default)]'
 												alt="industrial hoses catalogue" />
 											</a>
 										</div>
@@ -203,36 +205,142 @@
 									<div id='stacks_in_64294_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-										<h6 class="text-center   small-only-text-center  ">Catalogue</h6>
+										<h6 class="text-center   small-only-text-center  ">R1-R2</h6>
 
 									</div>
 								</div>
 							</div>
+							<!-- 2 -->
 							<div class='columns small-12   medium-2   '>
-								<div class='slice empty out'>
-									<div class='slice empty in'></div>
+								<div id='stacks_out_64293_page3' class='stacks_out'>
+									<div id='stacks_in_64293_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/R3-R4.png" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/R3-R4.png"
+												data-interchange='[images/literature/R3-R4.png,(default)]'
+												alt="industrial hoses catalogue" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_64294_page3' class='stacks_out'>
+									<div id='stacks_in_64294_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-center   small-only-text-center  ">R3-R4</h6>
+
+									</div>
 								</div>
 							</div>
-							<div class='columns small-1   medium-2   '>
-								<div class='slice empty out'>
-									<div class='slice empty in'></div>
+							<!-- 3 -->
+							<div class='columns small-12   medium-2   '>
+								<div id='stacks_out_64293_page3' class='stacks_out'>
+									<div id='stacks_in_64293_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/R5-R6.jpg" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/R5-R6.jpg"
+												data-interchange='[images/literature/R5-R6.jpg,(default)]'
+												alt="industrial hoses catalogue" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_64294_page3' class='stacks_out'>
+									<div id='stacks_in_64294_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-center   small-only-text-center  ">R5-R6</h6>
+
+									</div>
 								</div>
 							</div>
-							<div class='columns small-1   medium-2   '>
-								<div class='slice empty out'>
-									<div class='slice empty in'></div>
+							<!-- 4 -->
+							<div class='columns small-12   medium-2   '>
+								<div id='stacks_out_64293_page3' class='stacks_out'>
+									<div id='stacks_in_64293_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/R7-R8.jpg" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/R7-R8.jpg"
+												data-interchange='[images/literature/R7-R8.jpg,(default)]'
+												alt="industrial hoses catalogue" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_64294_page3' class='stacks_out'>
+									<div id='stacks_in_64294_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-center   small-only-text-center  ">R7-R8</h6>
+
+									</div>
 								</div>
 							</div>
-							<div class='columns small-1   medium-2   '>
-								<div class='slice empty out'>
-									<div class='slice empty in'></div>
+							<!-- 5 -->
+							<div class='columns small-12   medium-2   '>
+								<div id='stacks_out_64293_page3' class='stacks_out'>
+									<div id='stacks_in_64293_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/AIRWATERHOSE.png" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/AIRWATERHOSE.png"
+												data-interchange='[images/literature/AIRWATERHOSE.png,(default)]'
+												alt="industrial hoses catalogue" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_64294_page3' class='stacks_out'>
+									<div id='stacks_in_64294_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-center   small-only-text-center  ">AIR WATER HOSE</h6>
+
+									</div>
 								</div>
 							</div>
-							<div class='columns small-1   medium-2   '>
-								<div class='slice empty out'>
-									<div class='slice empty in'></div>
+							<!-- 6 -->
+							<div class='columns small-12   medium-2   '>
+								<div id='stacks_out_64293_page3' class='stacks_out'>
+									<div id='stacks_in_64293_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/Spiralhose.png" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/Spiralhose.png"
+												data-interchange='[images/literature/Spiralhose.png,(default)]'
+												alt="industrial hoses catalogue" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_64294_page3' class='stacks_out'>
+									<div id='stacks_in_64294_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-center   small-only-text-center  ">Spiral hose</h6>
+
+									</div>
 								</div>
 							</div>
+						
 						</div>
 
 					</div>
@@ -271,140 +379,15 @@
 
 						<div class='row     '>
 							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_5029_page3' class='stacks_out'>
-									<div id='stacks_in_5029_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/xf-280ed.pdf" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_5029.jpg"
-												data-interchange='[images/literature/small_5029.jpg,(default)]'
-												alt="crimping_press_xf280ed" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_5047_page3' class='stacks_out'>
-									<div id='stacks_in_5047_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-left   small-only-text-center  ">XF-280ED</h6>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_5030_page3' class='stacks_out'>
-									<div id='stacks_in_5030_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/xf-150ed.pdf" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_5030.jpg"
-												data-interchange='[images/literature/small_5030.jpg,(default)]'
-												alt="crimping_press_xf150ed" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_5050_page3' class='stacks_out'>
-									<div id='stacks_in_5050_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-left   small-only-text-center  ">XF-150ED</h6>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_5031_page3' class='stacks_out'>
-									<div id='stacks_in_5031_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/xf-150el.pdf" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_5031.jpg"
-												data-interchange='[images/literature/small_5031.jpg,(default)]'
-												alt="crimping_press_xf150el" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_5053_page3' class='stacks_out'>
-									<div id='stacks_in_5053_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-left   small-only-text-center  ">XF-150EL</h6>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_5032_page3' class='stacks_out'>
-									<div id='stacks_in_5032_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/xr-290ed.pdf" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_5032.jpg"
-												data-interchange='[images/literature/small_5032.jpg,(default)]'
-												alt="crimping_press_xr290ed" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_5056_page3' class='stacks_out'>
-									<div id='stacks_in_5056_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-left   small-only-text-center  ">XR-290ED</h6>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_5033_page3' class='stacks_out'>
-									<div id='stacks_in_5033_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/xr-200el.pdf" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_5033.jpg"
-												data-interchange='[images/literature/small_5033.jpg,(default)]'
-												alt="crimping_press_xr200el" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_5059_page3' class='stacks_out'>
-									<div id='stacks_in_5059_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-left   small-only-text-center  ">XR-200EL</h6>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-2   '>
 								<div id='stacks_out_5034_page3' class='stacks_out'>
 									<div id='stacks_in_5034_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 										<div class="text-center small-only-text-center ">
-											<a href="../resources/cr-200.pdf" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_5034.jpg"
-												data-interchange='[images/literature/small_5034.jpg,(default)]'
+											<a target="_blank" href="images/literature/JKS-200.png"
+												rel="external"> <img class="" oncontextmenu="return false;"
+												draggable="false" src="images/literature/JKS-200.png"
+												data-interchange='[images/literature/JKS-200.png,(default)]'
 												alt="crimping_press_cr200" />
 											</a>
 										</div>
@@ -415,286 +398,204 @@
 									<div id='stacks_in_5062_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-										<h6 class="text-left   small-only-text-center  ">CR-200</h6>
+										<h6 class="text-left   small-only-text-center  ">JKS-200</h6>
+
+									</div>
+								</div>
+							</div>
+						
+							<div class='columns small-12   medium-2   '>
+								<div id='stacks_out_5033_page3' class='stacks_out'>
+									<div id='stacks_in_5033_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/DX68.png" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/DX68.png"
+												data-interchange='[images/literature/DX68.png,(default)]'
+												alt="crimping_press_xr200el" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_5059_page3' class='stacks_out'>
+									<div id='stacks_in_5059_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-left   small-only-text-center  ">DX68</h6>
+
+									</div>
+								</div>
+							</div>
+						
+						
+							<div class='columns small-12   medium-2   '>
+								<div id='stacks_out_5029_page3' class='stacks_out'>
+									<div id='stacks_in_5029_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/DSG51.png" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/DSG51.png"
+												data-interchange='[images/literature/DSG51.png,(default)]'
+												alt="crimping_press_xf280ed" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_5047_page3' class='stacks_out'>
+									<div id='stacks_in_5047_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-left   small-only-text-center  ">DSG51</h6>
+
+									</div>
+								</div>
+							</div>
+							
+							<div class='columns small-12   medium-2   '>
+								<div id='stacks_out_5032_page3' class='stacks_out'>
+									<div id='stacks_in_5032_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/DSG250.png" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/DSG250.png"
+												data-interchange='[images/literature/DSG250.png,(default)]'
+												alt="crimping_press_xr290ed" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_5056_page3' class='stacks_out'>
+									<div id='stacks_in_5056_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-left   small-only-text-center  ">DSG250</h6>
+
+									</div>
+								</div>
+							</div>
+							
+							<div class='columns small-12   medium-2   '>
+								<div id='stacks_out_5034_page3' class='stacks_out'>
+									<div id='stacks_in_5034_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/JK400.png" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/JK400.png"
+												data-interchange='[images/literature/JK400.png,(default)]'
+												alt="crimping_press_cr200" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_5062_page3' class='stacks_out'>
+									<div id='stacks_in_5062_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-left   small-only-text-center  ">JK400</h6>
+
+									</div>
+								</div>
+							</div>
+						
+						
+							<div class='columns small-12   medium-2   '>
+								<div id='stacks_out_5030_page3' class='stacks_out'>
+									<div id='stacks_in_5030_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/DSG102S.png" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/DSG102S.png"
+												data-interchange='[images/literature/DSG102S.png,(default)]'
+												alt="crimping_press_xf150ed" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_5050_page3' class='stacks_out'>
+									<div id='stacks_in_5050_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-left   small-only-text-center  ">DSG102S</h6>
 
 									</div>
 								</div>
 							</div>
 						</div>
-
-					</div>
-				</div>
-				<div id='stacks_out_5183_page3' class='stacks_out'>
-					<div id='stacks_in_5183_page3'
-						class='stacks_in com_joeworkman_stacks_foundation_6col_s3_stack'>
-
-						<div class='row     '>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_5185_page3' class='stacks_out'>
-									<div id='stacks_in_5185_page3'
+						<div class="row">
+					
+							<div class='columns small-12   medium-2   pull-left'>
+								<div id='stacks_out_5031_page3' class='stacks_out'>
+									<div id='stacks_in_5031_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 										<div class="text-center small-only-text-center ">
-											<a href="../resources/cr-100hd.pdf" rel="external"> <img
+											<a target="_blank" href="images/literature/DSG150.png" rel="external"> <img
 												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_5185.jpg"
-												data-interchange='[images/literature/small_5185.jpg,(default)]'
-												alt="crimping_press_cr100" />
+												src="images/literature/DSG150.png"
+												data-interchange='[images/literature/DSG150.png,(default)]'
+												alt="crimping_press_xf150el" />
 											</a>
 										</div>
 
 									</div>
 								</div>
-								<div id='stacks_out_5186_page3' class='stacks_out'>
-									<div id='stacks_in_5186_page3'
+								<div id='stacks_out_5053_page3' class='stacks_out'>
+									<div id='stacks_in_5053_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-										<h6 class="text-left   small-only-text-center  ">CR-100HD</h6>
+										<h6 class="text-left   small-only-text-center  ">DSG150</h6>
 
 									</div>
 								</div>
 							</div>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_5190_page3' class='stacks_out'>
-									<div id='stacks_in_5190_page3'
+							
+						
+							
+							<div class='columns small-12   medium-2  pull-left'>
+								<div id='stacks_out_5034_page3' class='stacks_out'>
+									<div id='stacks_in_5034_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
 
 										<div class="text-center small-only-text-center ">
-											<a href="../resources/tm250_sk-01.pdf" rel="external"> <img
+											<a target="_blank" href="images/literature/SK100.png" rel="external"> <img
 												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_5190.jpg"
-												data-interchange='[images/literature/small_5190.jpg,(default)]'
-												alt="hose_cutting_machine" />
+												src="images/literature/SK100.png"
+												data-interchange='[images/literature/SK100.png,(default)]'
+												alt="crimping_press_cr200" />
 											</a>
 										</div>
 
 									</div>
 								</div>
-								<div id='stacks_out_5191_page3' class='stacks_out'>
-									<div id='stacks_in_5191_page3'
+								<div id='stacks_out_5062_page3' class='stacks_out'>
+									<div id='stacks_in_5062_page3'
 										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
 
-										<h6 class="text-left   small-only-text-center  ">TM-250 &
-											SK-01</h6>
+										<h6 class="text-left   small-only-text-center  ">SK100</h6>
 
 									</div>
 								</div>
 							</div>
-							<div class='columns small-1   medium-2   '>
-								<div class='slice empty out'>
-									<div class='slice empty in'></div>
-								</div>
-							</div>
-							<div class='columns small-1   medium-2   '>
-								<div class='slice empty out'>
-									<div class='slice empty in'></div>
-								</div>
-							</div>
-							<div class='columns small-1   medium-2   '>
-								<div class='slice empty out'>
-									<div class='slice empty in'></div>
-								</div>
-							</div>
-							<div class='columns small-1   medium-2   '>
-								<div class='slice empty out'>
-									<div class='slice empty in'></div>
-								</div>
-							</div>
+							
 						</div>
 
-					</div>
-				</div>
-				<div id='stacks_out_72306_page3' class='stacks_out'>
-					<div id='stacks_in_72306_page3'
-						class='stacks_in com_joeworkman_stacks_foundation_divider_s3_stack'>
-
-						<hr class="primary" />
-
-					</div>
-				</div>
-				<div id='stacks_out_5239_page3' class='stacks_out'>
-					<div id='stacks_in_5239_page3'
-						class='stacks_in com_joeworkman_stacks_foundation_1col_s3_stack'>
-
-						<div class='row        '>
-							<div class='columns small-12   '>
-								<div id='stacks_out_5241_page3' class='stacks_out'>
-									<div id='stacks_in_5241_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h3 class="text-left   small-only-text-center  ">GUIDELINES</h3>
-
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
-				<div id='stacks_out_4999_page3' class='stacks_out'>
-					<div id='stacks_in_4999_page3'
-						class='stacks_in com_joeworkman_stacks_foundation_6col_s3_stack'>
-
-						<div class='row     '>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_11421_page3' class='stacks_out'>
-									<div id='stacks_in_11421_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/flow_velocity.pdf" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_11421.jpg"
-												data-interchange='[images/literature/small_11421.jpg,(default)]'
-												alt="flow velocity hose selection" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_11403_page3' class='stacks_out'>
-									<div id='stacks_in_11403_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-center   small-only-text-center  ">Flow vs
-											velocity</h6>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_11422_page3' class='stacks_out'>
-									<div id='stacks_in_11422_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/assembly.pdf" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_11422.jpg"
-												data-interchange='[images/literature/small_11422.jpg,(default)]'
-												alt="hydraulic rubber hose assembling" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_11406_page3' class='stacks_out'>
-									<div id='stacks_in_11406_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-center   small-only-text-center  ">Assembling</h6>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_11423_page3' class='stacks_out'>
-									<div id='stacks_in_11423_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/guidelines_1.pdf" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_11423.jpg"
-												data-interchange='[images/literature/small_11423.jpg,(default)]'
-												alt="hydraulic rubber hose guidelines" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_11409_page3' class='stacks_out'>
-									<div id='stacks_in_11409_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-center   small-only-text-center  ">Guidelines
-											#1</h6>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_11424_page3' class='stacks_out'>
-									<div id='stacks_in_11424_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/guidelines_2.pdf" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/small_11424.jpg"
-												data-interchange='[images/literature/small_11424.jpg,(default)]'
-												alt="hydraulic rubber hose guidelines" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_11412_page3' class='stacks_out'>
-									<div id='stacks_in_11412_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-center   small-only-text-center  ">Guidelines
-											#2</h6>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_20593_page3' class='stacks_out'>
-									<div id='stacks_in_20593_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/fluid_compatibility.pdf" rel="external">
-												<img class="" oncontextmenu="return false;"
-												draggable="false" src="images/literature/small_20593.jpg"
-												data-interchange='[images/literature/small_20593.jpg,(default)]'
-												alt="hydraulic rubber hose fluid compatibility" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_20588_page3' class='stacks_out'>
-									<div id='stacks_in_20588_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-center   small-only-text-center  ">Fluid
-											compatibility</h6>
-
-									</div>
-								</div>
-							</div>
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_11420_page3' class='stacks_out'>
-									<div id='stacks_in_11420_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a href="../resources/hose_working_pressure.pdf"
-												rel="external"> <img class="" oncontextmenu="return false;"
-												draggable="false" src="images/literature/small_11420.jpg"
-												data-interchange='[images/literature/small_11420.jpg,(default)]'
-												alt="hydraulic rubber hose working pressure" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_11400_page3' class='stacks_out'>
-									<div id='stacks_in_11400_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-center   small-only-text-center  ">Max working
-											pressure</h6>
-
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
+			
+				
 			</div>
 		</div>
 
