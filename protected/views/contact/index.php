@@ -99,7 +99,10 @@
 					</div>
 				</div>
 			</div>
+			<div style="text-align:center">
+				<img src="images/contact/20173313420.jpg" width="50%">
+			</div>
 		</div>
-
+		
 	</div>
 </div>
