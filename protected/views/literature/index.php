@@ -288,32 +288,6 @@
 									</div>
 								</div>
 							</div>
-							<!-- 5 -->
-							<div class='columns small-12   medium-2   '>
-								<div id='stacks_out_64293_page3' class='stacks_out'>
-									<div id='stacks_in_64293_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
-
-										<div class="text-center small-only-text-center ">
-											<a target="_blank" href="images/literature/AIRWATERHOSE.png" rel="external"> <img
-												class="" oncontextmenu="return false;" draggable="false"
-												src="images/literature/AIRWATERHOSE.png"
-												data-interchange='[images/literature/AIRWATERHOSE.png,(default)]'
-												alt="industrial hoses catalogue" />
-											</a>
-										</div>
-
-									</div>
-								</div>
-								<div id='stacks_out_64294_page3' class='stacks_out'>
-									<div id='stacks_in_64294_page3'
-										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
-
-										<h6 class="text-center   small-only-text-center  ">AIR WATER HOSE</h6>
-
-									</div>
-								</div>
-							</div>
 							<!-- 6 -->
 							<div class='columns small-12   medium-2   '>
 								<div id='stacks_out_64293_page3' class='stacks_out'>
@@ -340,6 +314,33 @@
 									</div>
 								</div>
 							</div>
+							<!-- 5 -->
+							<div class='columns small-12   medium-2   '>
+								<div id='stacks_out_64293_page3' class='stacks_out'>
+									<div id='stacks_in_64293_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_image_stack'>
+
+										<div class="text-center small-only-text-center ">
+											<a target="_blank" href="images/literature/AIRWATERHOSE.png" rel="external"> <img
+												class="" oncontextmenu="return false;" draggable="false"
+												src="images/literature/AIRWATERHOSE.png"
+												data-interchange='[images/literature/AIRWATERHOSE.png,(default)]'
+												alt="industrial hoses catalogue" />
+											</a>
+										</div>
+
+									</div>
+								</div>
+								<div id='stacks_out_64294_page3' class='stacks_out'>
+									<div id='stacks_in_64294_page3'
+										class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+										<h6 class="text-center   small-only-text-center  ">AIR WATER HOSE</h6>
+
+									</div>
+								</div>
+							</div>
+							
 						
 						</div>
 
